@@ -1,0 +1,752 @@
+[
+	{
+		"patientPrescriptionDetailID" : 1,
+		"patientPrescriptionID" : 1,
+		"drugID" : 10,
+		"usage" : "口服",
+		"dosage" : "30g",
+		"frequency" : "一日二次",
+		"amount" : 10,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 2,
+		"patientPrescriptionID" : 1,
+		"drugID" : 29,
+		"usage" : "口服",
+		"dosage" : "5g",
+		"frequency" : "一日二次",
+		"amount" : 5,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 3,
+		"patientPrescriptionID" : 51,
+		"drugID" : 36,
+		"usage" : "1",
+		"dosage" : "1",
+		"frequency" : "1",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 4,
+		"patientPrescriptionID" : 51,
+		"drugID" : 39,
+		"usage" : "1",
+		"dosage" : "1",
+		"frequency" : "1",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 5,
+		"patientPrescriptionID" : 51,
+		"drugID" : 2,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 6,
+		"patientPrescriptionID" : 52,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 7,
+		"patientPrescriptionID" : 52,
+		"drugID" : 30,
+		"usage" : "静脉注射",
+		"dosage" : "200ml",
+		"frequency" : "一日一次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 8,
+		"patientPrescriptionID" : 53,
+		"drugID" : 36,
+		"usage" : "1",
+		"dosage" : "1",
+		"frequency" : "1",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 9,
+		"patientPrescriptionID" : 53,
+		"drugID" : 39,
+		"usage" : "1",
+		"dosage" : "1",
+		"frequency" : "1",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 10,
+		"patientPrescriptionID" : 53,
+		"drugID" : 2,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 11,
+		"patientPrescriptionID" : 54,
+		"drugID" : 9,
+		"usage" : "口服",
+		"dosage" : "1g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 12,
+		"patientPrescriptionID" : 54,
+		"drugID" : 33,
+		"usage" : "口服",
+		"dosage" : "2g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 13,
+		"patientPrescriptionID" : 54,
+		"drugID" : 47,
+		"usage" : "口服",
+		"dosage" : "适量",
+		"frequency" : "多次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 14,
+		"patientPrescriptionID" : 55,
+		"drugID" : 9,
+		"usage" : "口服",
+		"dosage" : "1g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 4
+	},
+	{
+		"patientPrescriptionDetailID" : 15,
+		"patientPrescriptionID" : 55,
+		"drugID" : 33,
+		"usage" : "口服",
+		"dosage" : "2g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 4
+	},
+	{
+		"patientPrescriptionDetailID" : 16,
+		"patientPrescriptionID" : 55,
+		"drugID" : 47,
+		"usage" : "口服",
+		"dosage" : "适量",
+		"frequency" : "多次",
+		"amount" : 1,
+		"state" : 4
+	},
+	{
+		"patientPrescriptionDetailID" : 17,
+		"patientPrescriptionID" : 56,
+		"drugID" : 5,
+		"usage" : "q",
+		"dosage" : "q",
+		"frequency" : "q",
+		"amount" : 3,
+		"state" : 4
+	},
+	{
+		"patientPrescriptionDetailID" : 18,
+		"patientPrescriptionID" : 56,
+		"drugID" : 45,
+		"usage" : "w",
+		"dosage" : "w",
+		"frequency" : "w",
+		"amount" : 2,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 19,
+		"patientPrescriptionID" : 56,
+		"drugID" : 45,
+		"usage" : "e",
+		"dosage" : "e",
+		"frequency" : "e",
+		"amount" : 3,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 20,
+		"patientPrescriptionID" : 57,
+		"drugID" : 44,
+		"usage" : "11",
+		"dosage" : "11",
+		"frequency" : "11",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 21,
+		"patientPrescriptionID" : 57,
+		"drugID" : 68,
+		"usage" : "22",
+		"dosage" : "22",
+		"frequency" : "22",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 22,
+		"patientPrescriptionID" : 69,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 23,
+		"patientPrescriptionID" : 69,
+		"drugID" : 23,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 23,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 24,
+		"patientPrescriptionID" : 70,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 25,
+		"patientPrescriptionID" : 70,
+		"drugID" : 23,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 23,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 26,
+		"patientPrescriptionID" : 71,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 27,
+		"patientPrescriptionID" : 71,
+		"drugID" : 23,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 23,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 28,
+		"patientPrescriptionID" : 72,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 29,
+		"patientPrescriptionID" : 72,
+		"drugID" : 23,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 23,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 30,
+		"patientPrescriptionID" : 73,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 31,
+		"patientPrescriptionID" : 73,
+		"drugID" : 23,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 23,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 32,
+		"patientPrescriptionID" : 78,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 33,
+		"patientPrescriptionID" : 78,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 34,
+		"patientPrescriptionID" : 79,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 35,
+		"patientPrescriptionID" : 79,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 36,
+		"patientPrescriptionID" : 80,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 37,
+		"patientPrescriptionID" : 80,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 38,
+		"patientPrescriptionID" : 81,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 39,
+		"patientPrescriptionID" : 81,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 40,
+		"patientPrescriptionID" : 83,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 41,
+		"patientPrescriptionID" : 83,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 42,
+		"patientPrescriptionID" : 85,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 43,
+		"patientPrescriptionID" : 85,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 44,
+		"patientPrescriptionID" : 87,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 45,
+		"patientPrescriptionID" : 87,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 46,
+		"patientPrescriptionID" : 88,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 47,
+		"patientPrescriptionID" : 88,
+		"drugID" : 68,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 48,
+		"patientPrescriptionID" : 89,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 49,
+		"patientPrescriptionID" : 89,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 68,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 50,
+		"patientPrescriptionID" : 90,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 51,
+		"patientPrescriptionID" : 90,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 52,
+		"patientPrescriptionID" : 91,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 53,
+		"patientPrescriptionID" : 91,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 54,
+		"patientPrescriptionID" : 92,
+		"drugID" : 1,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 0,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 55,
+		"patientPrescriptionID" : 92,
+		"drugID" : 1,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 0,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 56,
+		"patientPrescriptionID" : 93,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 57,
+		"patientPrescriptionID" : 93,
+		"drugID" : 1,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 0,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 58,
+		"patientPrescriptionID" : 94,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 59,
+		"patientPrescriptionID" : 94,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 60,
+		"patientPrescriptionID" : 95,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 61,
+		"patientPrescriptionID" : 95,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 62,
+		"patientPrescriptionID" : 96,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 63,
+		"patientPrescriptionID" : 96,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 64,
+		"patientPrescriptionID" : 97,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 65,
+		"patientPrescriptionID" : 97,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 66,
+		"patientPrescriptionID" : 98,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 67,
+		"patientPrescriptionID" : 98,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 68,
+		"patientPrescriptionID" : 99,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 69,
+		"patientPrescriptionID" : 99,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 2
+	},
+	{
+		"patientPrescriptionDetailID" : 70,
+		"patientPrescriptionID" : 100,
+		"drugID" : 68,
+		"usage" : "口服",
+		"dosage" : "18g",
+		"frequency" : "一日三次",
+		"amount" : 1,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 71,
+		"patientPrescriptionID" : 100,
+		"drugID" : 23,
+		"usage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次",
+		"amount" : 2,
+		"state" : 6
+	},
+	{
+		"patientPrescriptionDetailID" : 72,
+		"patientPrescriptionID" : 101,
+		"drugID" : 10,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 10,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 73,
+		"patientPrescriptionID" : 101,
+		"drugID" : 29,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 5,
+		"state" : 3
+	},
+	{
+		"patientPrescriptionDetailID" : 74,
+		"patientPrescriptionID" : 102,
+		"drugID" : 10,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 10,
+		"state" : 4
+	},
+	{
+		"patientPrescriptionDetailID" : 75,
+		"patientPrescriptionID" : 102,
+		"drugID" : 29,
+		"usage" : null,
+		"dosage" : null,
+		"frequency" : null,
+		"amount" : 5,
+		"state" : 4
+	}
+]

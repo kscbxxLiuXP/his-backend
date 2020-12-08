@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.RegisterDao">
+
+    <!--    public Register getOne(int registerID);-->
+
+    <!--    public List<Register> getAllByPatientID(int patientID);-->
+
+    <!--    public void addOne (Register register);-->
+
+    <!--    public void updateOne(int registerID,int state);-->
+    <select id="getOne" resultType="com.liuxp.his.PO.Register">
+        select *
+        from register
+        where registerID = #{registerID}
+    </select>
+<!--    -->
+<!--    <select id="getAllByPatientID" resultType="com.liuxp.his.PO.Register">-->
+<!--        select *-->
+<!--        from register-->
+<!--        where patientID = #{patientID}-->
+<!--    </select>-->
+
+    <select id="getAllByDate" resultType="com.liuxp.his.PO.Register">
+        select * from register where to_days(diagnoseDate) = to_days(#{date});
+    </select>
+    <select id="getAllUntreated" resultType="com.liuxp.his.PO.Register">
+        select * from register where to_days(diagnoseDate) = to_days(now()) and doctorUserID = #{doctorID} and diagnoseState=1;
+    </select>
+    <select id="getAllTreated" resultType="com.liuxp.his.PO.Register">
+        select * from register where to_days(diagnoseDate) = to_days(now()) and doctorUserID = #{doctorID} and diagnoseState=2;
+    </select>
+    <insert id="addOne" useGeneratedKeys="true" keyProperty="registerID" keyColumn="registerID">
+        INSERT INTO register
+        (patientID, diagnoseDate, noon, deptID, doctorUserID, registerLevelID, bookNeeded, registerTime, registerUserID,
+         diagnoseState)
+        VALUES (#{patientID}, #{ diagnoseDate}, #{ noon}, #{ deptID}, #{ doctorUserID}, #{ registerLevelID},
+                #{ bookNeeded}, #{ registerTime}, #{ registerUserID}, #{ diagnoseState});
+
+    </insert>
+    <update id="updateOne">
+        UPDATE register
+        SET diagnoseState = #{state}
+        WHERE registerID = #{registerID}
+    </update>
+    <select id="getChargerRegister" resultType="com.liuxp.his.PO.Register">
+        select *
+        from register
+        where patientID = #{patientID} and to_days(diagnoseDate) = to_days(#{date}) and diagnoseState>=2
+    </select>
+
+    <select id="getRegisterByPatientID" resultType="com.liuxp.his.PO.Register">
+        select *
+        from register
+        where patientID = #{patientID}
+    </select>
+    <select id="getRegisterByPatientIDAndState" resultType="com.liuxp.his.PO.Register">
+        select *
+        from register
+        where patientID = #{patientID} and diagnoseState = #{state}
+    </select>
+</mapper>

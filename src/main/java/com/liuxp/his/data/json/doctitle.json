@@ -1,0 +1,22 @@
+[
+	{
+		"docTitleID" : 1,
+		"docTitleCode" : "ZRYS",
+		"DocTitleName" : "主任医师"
+	},
+	{
+		"docTitleID" : 2,
+		"docTitleCode" : "FZRYS",
+		"DocTitleName" : "副主任医师"
+	},
+	{
+		"docTitleID" : 3,
+		"docTitleCode" : "ZZYS",
+		"DocTitleName" : "主治医师"
+	},
+	{
+		"docTitleID" : 4,
+		"docTitleCode" : "ZYYS",
+		"DocTitleName" : "住院医师"
+	}
+]

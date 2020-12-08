@@ -1,0 +1,188 @@
+[
+	{
+		"pscriptChargeID" : 1,
+		"drugID" : 10,
+		"drugPrice" : 30.79,
+		"amount" : 10
+	},
+	{
+		"pscriptChargeID" : 2,
+		"drugID" : 29,
+		"drugPrice" : 19.51,
+		"amount" : 5
+	},
+	{
+		"pscriptChargeID" : 3,
+		"drugID" : 36,
+		"drugPrice" : 22.05,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 4,
+		"drugID" : 39,
+		"drugPrice" : 60.96,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 5,
+		"drugID" : 2,
+		"drugPrice" : 0.09,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 6,
+		"drugID" : 23,
+		"drugPrice" : 6.79,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 7,
+		"drugID" : 30,
+		"drugPrice" : 23.51,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 8,
+		"drugID" : 36,
+		"drugPrice" : 1.07,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 9,
+		"drugID" : 39,
+		"drugPrice" : 81.74,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 10,
+		"drugID" : 2,
+		"drugPrice" : 31.86,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 11,
+		"drugID" : 9,
+		"drugPrice" : 41.50,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 12,
+		"drugID" : 33,
+		"drugPrice" : 67.72,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 13,
+		"drugID" : 47,
+		"drugPrice" : 17.95,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 14,
+		"drugID" : 9,
+		"drugPrice" : 0.70,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 15,
+		"drugID" : 33,
+		"drugPrice" : 10.39,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 16,
+		"drugID" : 47,
+		"drugPrice" : 5.52,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 17,
+		"drugID" : 5,
+		"drugPrice" : 14.34,
+		"amount" : 3
+	},
+	{
+		"pscriptChargeID" : 18,
+		"drugID" : 45,
+		"drugPrice" : 46.91,
+		"amount" : 2
+	},
+	{
+		"pscriptChargeID" : 19,
+		"drugID" : 10,
+		"drugPrice" : 6.34,
+		"amount" : 3
+	},
+	{
+		"pscriptChargeID" : 20,
+		"drugID" : 44,
+		"drugPrice" : 5.04,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 21,
+		"drugID" : 68,
+		"drugPrice" : 16.02,
+		"amount" : 1
+	},
+	{
+		"pscriptChargeID" : 22,
+		"drugID" : 68,
+		"drugPrice" : 47.78,
+		"amount" : 68
+	},
+	{
+		"pscriptChargeID" : 23,
+		"drugID" : 23,
+		"drugPrice" : 45.62,
+		"amount" : 23
+	},
+	{
+		"pscriptChargeID" : 24,
+		"drugID" : 68,
+		"drugPrice" : 17.53,
+		"amount" : 68
+	},
+	{
+		"pscriptChargeID" : 25,
+		"drugID" : 23,
+		"drugPrice" : 1.73,
+		"amount" : 23
+	},
+	{
+		"pscriptChargeID" : 26,
+		"drugID" : 68,
+		"drugPrice" : 5.04,
+		"amount" : 68
+	},
+	{
+		"pscriptChargeID" : 27,
+		"drugID" : 23,
+		"drugPrice" : 16.02,
+		"amount" : 23
+	},
+	{
+		"pscriptChargeID" : 28,
+		"drugID" : 10,
+		"drugPrice" : 6.79,
+		"amount" : 10
+	},
+	{
+		"pscriptChargeID" : 29,
+		"drugID" : 29,
+		"drugPrice" : 1.73,
+		"amount" : 5
+	},
+	{
+		"pscriptChargeID" : 30,
+		"drugID" : 10,
+		"drugPrice" : 6.79,
+		"amount" : 10
+	},
+	{
+		"pscriptChargeID" : 31,
+		"drugID" : 29,
+		"drugPrice" : 1.73,
+		"amount" : 5
+	}
+]

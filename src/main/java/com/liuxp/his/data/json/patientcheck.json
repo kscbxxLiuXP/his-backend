@@ -1,0 +1,178 @@
+[
+	{
+		"patientCheckID" : 1,
+		"registerID" : 3,
+		"patientIndexID" : 1,
+		"checkID" : 36,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 2,
+		"registerID" : 4,
+		"patientIndexID" : 3,
+		"checkID" : 37,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 3,
+		"registerID" : 6,
+		"patientIndexID" : 4,
+		"checkID" : 38,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 4,
+		"registerID" : 9,
+		"patientIndexID" : 5,
+		"checkID" : 39,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 5,
+		"registerID" : 28,
+		"patientIndexID" : 6,
+		"checkID" : 40,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 6,
+		"registerID" : 26,
+		"patientIndexID" : 7,
+		"checkID" : 41,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 7,
+		"registerID" : 27,
+		"patientIndexID" : 8,
+		"checkID" : 42,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 8,
+		"registerID" : 29,
+		"patientIndexID" : 9,
+		"checkID" : 43,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 9,
+		"registerID" : 30,
+		"patientIndexID" : 10,
+		"checkID" : 44,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 10,
+		"registerID" : 28,
+		"patientIndexID" : 11,
+		"checkID" : 45,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 11,
+		"registerID" : 31,
+		"patientIndexID" : 13,
+		"checkID" : 46,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 12,
+		"registerID" : 32,
+		"patientIndexID" : 15,
+		"checkID" : 47,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 13,
+		"registerID" : 33,
+		"patientIndexID" : 18,
+		"checkID" : 50,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 14,
+		"registerID" : 34,
+		"patientIndexID" : 19,
+		"checkID" : 51,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 15,
+		"registerID" : 37,
+		"patientIndexID" : 20,
+		"checkID" : 52,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	},
+	{
+		"patientCheckID" : 16,
+		"registerID" : 40,
+		"patientIndexID" : 21,
+		"checkID" : 53,
+		"checkResult" : "正常",
+		"userID" : 2,
+		"createTime" : "2020-07-02 00:00:00",
+		"state" : 1,
+		"checkType" : 1
+	}
+]

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.PatientPrescriptionDao">
+    <!--    public PatientPrescription getOneByID(int patientPrescriptionID);-->
+
+    <!--    public PatientPrescription getOneByRegisterID (int registerID);-->
+
+    <!--    //返回自增ID-->
+    <!--    @Options(useGeneratedKeys = true,keyProperty = "patientPrescriptionID",keyColumn = "patientPrescriptionID")-->
+    <!--    public void addOne(PatientPrescription patientPrescription);-->
+
+    <!--    public void updateOne(PatientPrescription patientPrescription);-->
+    <select id="getOneByID" resultType="com.liuxp.his.PO.PatientPrescription">
+        SELECT *
+        FROM patientPrescription
+        WHERE patientPrescriptionID = #{patientPrescriptionID}
+    </select>
+    <select id="getAllByRegisterID" resultType="com.liuxp.his.PO.PatientPrescription">
+        SELECT *
+        FROM patientPrescription
+        WHERE registerID = #{registerID}
+    </select>
+
+    <insert id="addOne" useGeneratedKeys="true" keyProperty="patientPrescriptionID" keyColumn="patientPrescriptionID">
+        INSERT INTO patientprescription
+        (patientIndexID, registerID, userID, prescriptionName, createTime, state)
+        VALUES (#{patientIndexID}, #{registerID}, #{userID}, #{prescriptionName}, #{createTime}, 1)
+    </insert>
+
+    <update id="updateState">
+        UPDATE patientPrescription
+        SET state = #{state}
+        WHERE patientPrescriptionID = #{patientPrescriptionID}
+    </update>
+    <update id="updateStateByRegisterID">
+        UPDATE patientPrescription
+        SET state = #{state}
+        WHERE registerID = #{registerID}
+    </update>
+</mapper>

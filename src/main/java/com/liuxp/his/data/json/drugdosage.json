@@ -1,0 +1,277 @@
+[
+	{
+		"drugDosageID" : 1,
+		"drugDosageCode" : "ZJ",
+		"drugDosageName" : "针剂"
+	},
+	{
+		"drugDosageID" : 2,
+		"drugDosageCode" : "PJ",
+		"drugDosageName" : "片剂"
+	},
+	{
+		"drugDosageID" : 3,
+		"drugDosageCode" : "ZYYP",
+		"drugDosageName" : "中药饮片"
+	},
+	{
+		"drugDosageID" : 4,
+		"drugDosageCode" : "SJ",
+		"drugDosageName" : "散剂"
+	},
+	{
+		"drugDosageID" : 5,
+		"drugDosageCode" : "JN",
+		"drugDosageName" : "胶囊"
+	},
+	{
+		"drugDosageID" : 6,
+		"drugDosageCode" : "KLJ",
+		"drugDosageName" : "颗粒剂"
+	},
+	{
+		"drugDosageID" : 7,
+		"drugDosageCode" : "FJ",
+		"drugDosageName" : "粉剂"
+	},
+	{
+		"drugDosageID" : 8,
+		"drugDosageCode" : "BMP",
+		"drugDosageName" : "簿膜片"
+	},
+	{
+		"drugDosageID" : 9,
+		"drugDosageCode" : "RJ",
+		"drugDosageName" : "乳剂"
+	},
+	{
+		"drugDosageID" : 10,
+		"drugDosageCode" : "YJ",
+		"drugDosageName" : "液剂"
+	},
+	{
+		"drugDosageID" : 11,
+		"drugDosageCode" : "NJ",
+		"drugDosageName" : "凝胶"
+	},
+	{
+		"drugDosageID" : 12,
+		"drugDosageCode" : "RGJ",
+		"drugDosageName" : "软膏剂"
+	},
+	{
+		"drugDosageID" : 13,
+		"drugDosageCode" : "QWJ",
+		"drugDosageName" : "气雾剂"
+	},
+	{
+		"drugDosageID" : 14,
+		"drugDosageCode" : "FSP",
+		"drugDosageName" : "分散片"
+	},
+	{
+		"drugDosageID" : 15,
+		"drugDosageCode" : "YPQX",
+		"drugDosageName" : "药品器械"
+	},
+	{
+		"drugDosageID" : 16,
+		"drugDosageCode" : "SJ",
+		"drugDosageName" : "栓剂"
+	},
+	{
+		"drugDosageID" : 17,
+		"drugDosageCode" : "NFSJ",
+		"drugDosageName" : "内服水剂"
+	},
+	{
+		"drugDosageID" : 18,
+		"drugDosageCode" : "PJ",
+		"drugDosageName" : "喷剂"
+	},
+	{
+		"drugDosageID" : 19,
+		"drugDosageCode" : "JJ",
+		"drugDosageName" : "胶剂"
+	},
+	{
+		"drugDosageID" : 20,
+		"drugDosageCode" : "TJ",
+		"drugDosageName" : "酊剂"
+	},
+	{
+		"drugDosageID" : 21,
+		"drugDosageCode" : "DJ",
+		"drugDosageName" : "滴剂"
+	},
+	{
+		"drugDosageID" : 22,
+		"drugDosageCode" : "HSP",
+		"drugDosageName" : "缓释片"
+	},
+	{
+		"drugDosageID" : 23,
+		"drugDosageCode" : "YGZJ",
+		"drugDosageName" : "眼膏制剂"
+	},
+	{
+		"drugDosageID" : 24,
+		"drugDosageCode" : "CRP",
+		"drugDosageName" : "肠溶片"
+	},
+	{
+		"drugDosageID" : 25,
+		"drugDosageCode" : "SJ",
+		"drugDosageName" : "霜剂"
+	},
+	{
+		"drugDosageID" : 26,
+		"drugDosageCode" : "DEJ",
+		"drugDosageName" : "滴耳剂"
+	},
+	{
+		"drugDosageID" : 27,
+		"drugDosageCode" : "HXJ",
+		"drugDosageName" : "混悬剂"
+	},
+	{
+		"drugDosageID" : 28,
+		"drugDosageCode" : "HSJN",
+		"drugDosageName" : "缓释胶囊"
+	},
+	{
+		"drugDosageID" : 29,
+		"drugDosageCode" : "NJJN",
+		"drugDosageName" : "凝胶胶囊"
+	},
+	{
+		"drugDosageID" : 30,
+		"drugDosageCode" : "CJ",
+		"drugDosageName" : "擦剂"
+	},
+	{
+		"drugDosageID" : 31,
+		"drugDosageCode" : "HP",
+		"drugDosageName" : "含片"
+	},
+	{
+		"drugDosageID" : 32,
+		"drugDosageCode" : "GHJ",
+		"drugDosageName" : "干混剂"
+	},
+	{
+		"drugDosageID" : 33,
+		"drugDosageCode" : "XJ",
+		"drugDosageName" : "洗剂"
+	},
+	{
+		"drugDosageID" : 34,
+		"drugDosageCode" : "BPJ",
+		"drugDosageName" : "鼻喷剂"
+	},
+	{
+		"drugDosageID" : 35,
+		"drugDosageCode" : "MJ",
+		"drugDosageName" : "膜剂"
+	},
+	{
+		"drugDosageID" : 36,
+		"drugDosageCode" : "TG",
+		"drugDosageName" : "贴膏"
+	},
+	{
+		"drugDosageID" : 37,
+		"drugDosageCode" : "TJ",
+		"drugDosageName" : "贴剂"
+	},
+	{
+		"drugDosageID" : 38,
+		"drugDosageCode" : "HJ",
+		"drugDosageName" : "合剂"
+	},
+	{
+		"drugDosageID" : 39,
+		"drugDosageCode" : "SJ",
+		"drugDosageName" : "湿巾"
+	},
+	{
+		"drugDosageID" : 40,
+		"drugDosageCode" : "KPJ",
+		"drugDosageName" : "口喷剂"
+	},
+	{
+		"drugDosageID" : 41,
+		"drugDosageCode" : "DSY",
+		"drugDosageName" : "大输液"
+	},
+	{
+		"drugDosageID" : 42,
+		"drugDosageCode" : "YPCL",
+		"drugDosageName" : "药品材料"
+	},
+	{
+		"drugDosageID" : 43,
+		"drugDosageCode" : "KSP",
+		"drugDosageName" : "控释片"
+	},
+	{
+		"drugDosageID" : 44,
+		"drugDosageCode" : "DBJ",
+		"drugDosageName" : "滴鼻剂"
+	},
+	{
+		"drugDosageID" : 45,
+		"drugDosageCode" : "DW",
+		"drugDosageName" : "滴丸"
+	},
+	{
+		"drugDosageID" : 46,
+		"drugDosageCode" : "GTJJ",
+		"drugDosageName" : "干糖浆剂"
+	},
+	{
+		"drugDosageID" : 47,
+		"drugDosageCode" : "WHXRJ",
+		"drugDosageName" : "雾化吸入剂"
+	},
+	{
+		"drugDosageID" : 48,
+		"drugDosageCode" : "YLY",
+		"drugDosageName" : "原料药"
+	},
+	{
+		"drugDosageID" : 49,
+		"drugDosageCode" : "TJJ",
+		"drugDosageName" : "糖浆剂"
+	},
+	{
+		"drugDosageID" : 50,
+		"drugDosageCode" : "RJN",
+		"drugDosageName" : "软胶囊"
+	},
+	{
+		"drugDosageID" : 51,
+		"drugDosageCode" : "DYJ",
+		"drugDosageName" : "滴眼剂"
+	},
+	{
+		"drugDosageID" : 52,
+		"drugDosageCode" : "DGFZ",
+		"drugDosageName" : "冻干粉针"
+	},
+	{
+		"drugDosageID" : 53,
+		"drugDosageCode" : "CJ",
+		"drugDosageName" : "冲剂"
+	},
+	{
+		"drugDosageID" : 54,
+		"drugDosageCode" : "WJ",
+		"drugDosageName" : "丸剂"
+	},
+	{
+		"drugDosageID" : 55,
+		"drugDosageCode" : "KFYL",
+		"drugDosageName" : "口服液类"
+	}
+]

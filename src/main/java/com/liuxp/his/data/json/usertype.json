@@ -1,0 +1,14 @@
+[
+	{
+		"userTypeID" : 1,
+		"typeName" : "管理员"
+	},
+	{
+		"userTypeID" : 2,
+		"typeName" : "挂号员"
+	},
+	{
+		"userTypeID" : 3,
+		"typeName" : "医生"
+	}
+]

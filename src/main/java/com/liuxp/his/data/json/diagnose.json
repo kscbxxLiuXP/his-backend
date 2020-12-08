@@ -1,0 +1,98 @@
+[
+	{
+		"diagnoseID" : 4,
+		"patientIndexID" : 1,
+		"registerID" : 3,
+		"diseaseID" : 2,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2010-06-11 00:00:00"
+	},
+	{
+		"diagnoseID" : 6,
+		"patientIndexID" : 3,
+		"registerID" : 4,
+		"diseaseID" : 4,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2010-06-11 00:00:00"
+	},
+	{
+		"diagnoseID" : 10,
+		"patientIndexID" : 4,
+		"registerID" : 6,
+		"diseaseID" : 9,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-19 00:00:00"
+	},
+	{
+		"diagnoseID" : 12,
+		"patientIndexID" : 5,
+		"registerID" : 9,
+		"diseaseID" : 5,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-20 15:21:00"
+	},
+	{
+		"diagnoseID" : 13,
+		"patientIndexID" : 1,
+		"registerID" : 26,
+		"diseaseID" : 3,
+		"diagnoseType" : 2,
+		"diseaseTime" : "2019-03-25 16:51:00"
+	},
+	{
+		"diagnoseID" : 14,
+		"patientIndexID" : 1,
+		"registerID" : 26,
+		"diseaseID" : 8,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-26 09:28:00"
+	},
+	{
+		"diagnoseID" : 16,
+		"patientIndexID" : 8,
+		"registerID" : 27,
+		"diseaseID" : 8,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-28 00:00:00"
+	},
+	{
+		"diagnoseID" : 17,
+		"patientIndexID" : 1,
+		"registerID" : 29,
+		"diseaseID" : 5,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-28 13:45:00"
+	},
+	{
+		"diagnoseID" : 18,
+		"patientIndexID" : 1,
+		"registerID" : 29,
+		"diseaseID" : 10,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-28 13:45:00"
+	},
+	{
+		"diagnoseID" : 19,
+		"patientIndexID" : 1,
+		"registerID" : 30,
+		"diseaseID" : 1,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-28 15:25:00"
+	},
+	{
+		"diagnoseID" : 20,
+		"patientIndexID" : 19,
+		"registerID" : 34,
+		"diseaseID" : 4,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-03-29 15:15:00"
+	},
+	{
+		"diagnoseID" : 21,
+		"patientIndexID" : 1,
+		"registerID" : 3,
+		"diseaseID" : 1,
+		"diagnoseType" : 1,
+		"diseaseTime" : "2019-04-01 13:26:36"
+	}
+]

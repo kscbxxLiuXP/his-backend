@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.liuxp.his.Dao.CostTypeDao">
+    <!--    public CostType getOne(int id);-->
+
+    <select id="getOne" resultType="com.liuxp.his.PO.CostType">
+        select * from costtype where costTypeID = #{id}
+    </select>
+    <select id="getAll" resultType="com.liuxp.his.PO.CostType">
+        select * from costtype
+    </select>
+</mapper>

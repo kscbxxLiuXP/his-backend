@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.PatientPrescriptionDetailDao">
+    <!--    public PatientPrescriptionDetail getOneByID(int ppDetailID);-->
+
+    <!--    public PatientPrescriptionDetail getOneByPrescriptionID(int patientPrescriptionID);-->
+
+    <!--    @Options(useGeneratedKeys = true, keyProperty = "patientPrescriptionDetailID", keyColumn = "patientPrescriptionDetailID")-->
+    <!--    public void addOne(PatientPrescriptionDetail patientPrescriptionDetail);-->
+
+    <!--    public void deleteOne(int patientPrescriptionDetailID);-->
+
+    <!--    public void updateOne(int patientPrescriptionDetailID, int state);-->
+    <select id="getOneByID" resultType="com.liuxp.his.PO.PatientPrescriptionDetail">
+        SELECT *
+        FROM patientPrescriptionDetail
+        WHERE patientPrescriptionDetailID = #{ppDetailID}
+    </select>
+    <select id="getAllByPrescriptionID" resultType="com.liuxp.his.PO.PatientPrescriptionDetail">
+        SELECT *
+        FROM patientPrescriptionDetail
+        WHERE patientPrescriptionID = #{patientPrescriptionID}
+    </select>
+
+    <insert id="addOne" useGeneratedKeys="true" keyProperty="patientPrescriptionDetailID"
+            keyColumn="patientPrescriptionDetailID">
+        INSERT INTO patientprescriptiondetail
+        (patientPrescriptionID, drugID, `usage`, dosage, frequency, amount, state)
+        VALUES (#{patientPrescriptionID}, #{drugID}, #{usage}, #{dosage}, #{frequency}, #{amount}, #{state});
+    </insert>
+
+    <delete id="deleteOne">
+        DELETE
+        from patientPrescriptionDetail
+        where patientPrescriptionDetailID = #{patientPrescriptionDetailID}
+    </delete>
+
+    <update id="updateOne">
+        update patientPrescriptionDetail
+        set state = #{state}
+        where patientPrescriptionDetailID = patientPrescriptionDetailID
+    </update>
+
+
+</mapper>

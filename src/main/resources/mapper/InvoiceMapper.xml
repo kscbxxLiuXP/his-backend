@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.InvoiceDao">
+<!--    public Invoice getOne(int id);-->
+
+<!--    public List<Invoice> getByRegisterID(int registerID);-->
+<!--    public long getLastInvoiceNumber();-->
+<!--    public void addOne(Invoice invoice);-->
+
+    <select id="getOne" resultType="com.liuxp.his.PO.Invoice">
+    select * from invoice where invoiceid = #{id}
+    </select>
+    <select id="getByRegisterID" resultType="com.liuxp.his.PO.Invoice">
+    select * from invoice where registerID = #{registerID}
+    </select>
+    
+    <select id="getLastInvoiceNumber" resultType="Integer">
+        select max(invoiceNumber) from invoice
+    </select>
+    <select id="getLastInvoiceID" resultType="Integer">
+        select max(invoiceID) from invoice
+    </select>
+    <insert id="addOne">
+        insert into
+        invoice
+        (invoiceNumber,invoiceValue,invoiceState,chargeTime,chargeUserID,registerID)
+        values
+        (#{invoiceNumber},#{invoiceValue},#{invoiceState},#{chargeTime},#{chargeUserID},#{registerID})
+    </insert>
+
+
+</mapper>

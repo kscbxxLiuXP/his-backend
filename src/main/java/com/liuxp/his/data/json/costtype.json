@@ -1,0 +1,107 @@
+[
+	{
+		"costTypeID" : 1,
+		"cpstTypeCode" : "GHF",
+		"costTypeName" : "挂号费"
+	},
+	{
+		"costTypeID" : 2,
+		"cpstTypeCode" : "ZLF",
+		"costTypeName" : "诊疗费"
+	},
+	{
+		"costTypeID" : 3,
+		"cpstTypeCode" : "JYF",
+		"costTypeName" : "检验费"
+	},
+	{
+		"costTypeID" : 4,
+		"cpstTypeCode" : "JYCLF",
+		"costTypeName" : "检验材料费"
+	},
+	{
+		"costTypeID" : 5,
+		"cpstTypeCode" : "CSJCF",
+		"costTypeName" : "超声检查费"
+	},
+	{
+		"costTypeID" : 6,
+		"cpstTypeCode" : "CSCLF",
+		"costTypeName" : "超声材料费"
+	},
+	{
+		"costTypeID" : 7,
+		"cpstTypeCode" : "FSJCF",
+		"costTypeName" : "放射检查费"
+	},
+	{
+		"costTypeID" : 8,
+		"cpstTypeCode" : "FSCLF",
+		"costTypeName" : "放射材料费"
+	},
+	{
+		"costTypeID" : 9,
+		"cpstTypeCode" : "MRIJCF",
+		"costTypeName" : "MRI检查费"
+	},
+	{
+		"costTypeID" : 10,
+		"cpstTypeCode" : "MRICLF",
+		"costTypeName" : "MRI材料费"
+	},
+	{
+		"costTypeID" : 11,
+		"cpstTypeCode" : "CTJCF",
+		"costTypeName" : "CT检查费"
+	},
+	{
+		"costTypeID" : 12,
+		"cpstTypeCode" : "CTCLF",
+		"costTypeName" : "CT材料费"
+	},
+	{
+		"costTypeID" : 13,
+		"cpstTypeCode" : "XYF",
+		"costTypeName" : "西药费"
+	},
+	{
+		"costTypeID" : 14,
+		"cpstTypeCode" : "ZCYF",
+		"costTypeName" : "中成药费"
+	},
+	{
+		"costTypeID" : 15,
+		"cpstTypeCode" : "ZCYF",
+		"costTypeName" : "中草药费"
+	},
+	{
+		"costTypeID" : 16,
+		"cpstTypeCode" : "CZF",
+		"costTypeName" : "处置费"
+	},
+	{
+		"costTypeID" : 17,
+		"cpstTypeCode" : "CZCLF",
+		"costTypeName" : "处置材料费"
+	},
+	{
+		"costTypeID" : 18,
+		"cpstTypeCode" : "MZF",
+		"costTypeName" : "麻醉费"
+	},
+	{
+		"costTypeID" : 19,
+		"cpstTypeCode" : "MZYF",
+		"costTypeName" : "麻醉药费"
+	},
+	{
+		"costTypeID" : 20,
+		"cpstTypeCode" : "MZSSF",
+		"costTypeName" : "门诊手术费"
+	},
+	{
+		"costTypeID" : 21,
+		"cpstTypeCode" : "QT",
+		"costTypeName" : "其他"
+	}
+]

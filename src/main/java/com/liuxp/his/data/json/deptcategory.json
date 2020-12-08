@@ -1,0 +1,92 @@
+[
+	{
+		"deptCategoryID" : 1,
+		"deptCategoryCode" : "NK",
+		"deptCategoryName" : "内科"
+	},
+	{
+		"deptCategoryID" : 2,
+		"deptCategoryCode" : "WK",
+		"deptCategoryName" : "外科"
+	},
+	{
+		"deptCategoryID" : 4,
+		"deptCategoryCode" : "EK",
+		"deptCategoryName" : "儿科"
+	},
+	{
+		"deptCategoryID" : 5,
+		"deptCategoryCode" : "CRBK",
+		"deptCategoryName" : "传染病科"
+	},
+	{
+		"deptCategoryID" : 6,
+		"deptCategoryCode" : "FCK",
+		"deptCategoryName" : "妇产科"
+	},
+	{
+		"deptCategoryID" : 7,
+		"deptCategoryCode" : "NK",
+		"deptCategoryName" : "男科"
+	},
+	{
+		"deptCategoryID" : 8,
+		"deptCategoryCode" : "JSXLK",
+		"deptCategoryName" : "精神心理科"
+	},
+	{
+		"deptCategoryID" : 9,
+		"deptCategoryCode" : "PFXBK",
+		"deptCategoryName" : "皮肤性病科"
+	},
+	{
+		"deptCategoryID" : 10,
+		"deptCategoryCode" : "ZYK",
+		"deptCategoryName" : "中医科"
+	},
+	{
+		"deptCategoryID" : 11,
+		"deptCategoryCode" : "ZLK",
+		"deptCategoryName" : "肿瘤科"
+	},
+	{
+		"deptCategoryID" : 12,
+		"deptCategoryCode" : "GK",
+		"deptCategoryName" : "骨科"
+	},
+	{
+		"deptCategoryID" : 13,
+		"deptCategoryCode" : "WGK",
+		"deptCategoryName" : "五官科"
+	},
+	{
+		"deptCategoryID" : 14,
+		"deptCategoryCode" : "KFYXK",
+		"deptCategoryName" : "康复医学科"
+	},
+	{
+		"deptCategoryID" : 15,
+		"deptCategoryCode" : "MZYXK",
+		"deptCategoryName" : "麻醉医学科"
+	},
+	{
+		"deptCategoryID" : 16,
+		"deptCategoryCode" : "YYK",
+		"deptCategoryName" : "营养科"
+	},
+	{
+		"deptCategoryID" : 17,
+		"deptCategoryCode" : "YJK",
+		"deptCategoryName" : "医技科"
+	},
+	{
+		"deptCategoryID" : 18,
+		"deptCategoryCode" : "YXYXX",
+		"deptCategoryName" : "医学影像学"
+	},
+	{
+		"deptCategoryID" : 19,
+		"deptCategoryCode" : "QTKS",
+		"deptCategoryName" : "其他科室"
+	}
+]

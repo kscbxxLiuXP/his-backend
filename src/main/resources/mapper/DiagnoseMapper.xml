@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.DiagnoseDao">
+
+    <select id="getOneByID" resultType="com.liuxp.his.PO.Diagnose">
+        select * from diagnose where diagnoseID = #{diagnoseID}
+    </select>
+
+    <select id="getOneByPatientIndexID" resultType="com.liuxp.his.PO.Diagnose">
+        select * from diagnose where patientIndexID = #{patientIndexID}
+    </select>
+
+    <select id="getByRegisterID" resultType="com.liuxp.his.PO.Diagnose">
+
+        select * from diagnose where registerID = #{registerID}
+    </select>
+
+    <insert id="addOne" useGeneratedKeys="true" keyColumn="diagnoseID" keyProperty="diagnoseID">
+        insert into diagnose
+        (patientIndexID,registerID,diseaseID,diagnoseType,diseaseTime)
+        values
+        (#{patientIndexID},#{registerID},#{diseaseID},#{diagnoseType},#{diseaseTime})
+    </insert>
+
+    <delete id="delete">
+        delete from diagnose where diagnoseID=#{diagnoseID}
+    </delete>
+
+</mapper>

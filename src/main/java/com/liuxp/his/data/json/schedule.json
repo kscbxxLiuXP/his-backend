@@ -1,0 +1,266 @@
+[
+	{
+		"scheduleID" : 1,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 2,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 3,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 4,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 5,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 6,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 7,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 8,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 9,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 10,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 11,
+		"scheduleDate" : "2019-04-01",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 12,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 13,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 2,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 3
+	},
+	{
+		"scheduleID" : 14,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 15,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 16,
+		"scheduleDate" : "2019-04-02",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 17,
+		"scheduleDate" : "2019-04-04",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 18,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 19,
+		"scheduleDate" : "2019-04-04",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 20,
+		"scheduleDate" : "2019-04-03",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 21,
+		"scheduleDate" : "2019-04-05",
+		"deptID" : 1,
+		"userID" : 3,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 6
+	},
+	{
+		"scheduleID" : 22,
+		"scheduleDate" : "2019-04-04",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 23,
+		"scheduleDate" : "2019-04-04",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 24,
+		"scheduleDate" : "2019-04-05",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 1
+	},
+	{
+		"scheduleID" : 25,
+		"scheduleDate" : "2019-03-25",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 26,
+		"scheduleDate" : "2019-03-25",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 27,
+		"scheduleDate" : "2019-03-26",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 28,
+		"scheduleDate" : "2019-03-26",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 29,
+		"scheduleDate" : "2019-03-27",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 30,
+		"scheduleDate" : "2019-03-27",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 31,
+		"scheduleDate" : "2019-03-28",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 32,
+		"scheduleDate" : "2019-03-28",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "下午",
+		"scheduleRuleID" : 10
+	},
+	{
+		"scheduleID" : 33,
+		"scheduleDate" : "2019-03-29",
+		"deptID" : 1,
+		"userID" : 1,
+		"scheduleNoon" : "上午",
+		"scheduleRuleID" : 10
+	}
+]

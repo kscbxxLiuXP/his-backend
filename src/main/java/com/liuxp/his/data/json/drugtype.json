@@ -1,0 +1,17 @@
+[
+	{
+		"drugTypeID" : 1,
+		"drugTypeCode" : "XY",
+		"drugTypeName" : "西药"
+	},
+	{
+		"drugTypeID" : 2,
+		"drugTypeCode" : "ZCY",
+		"drugTypeName" : "中成药"
+	},
+	{
+		"drugTypeID" : 3,
+		"drugTypeCode" : "ZCY",
+		"drugTypeName" : "中草药"
+	}
+]

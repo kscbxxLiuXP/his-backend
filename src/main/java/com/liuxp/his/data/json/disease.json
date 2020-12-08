@@ -1,0 +1,1591 @@
+[
+	{
+		"diseaseID" : 1,
+		"diseaseCode" : "GDXHL",
+		"diseaseName" : "古典型霍乱",
+		"diseaseICDCode" : "A00.051",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 2,
+		"diseaseCode" : "ZXDXHL",
+		"diseaseName" : "中型[典型]霍乱",
+		"diseaseICDCode" : "A00.052",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 3,
+		"diseaseCode" : "ZXBFXHGXHL",
+		"diseaseName" : "重型[暴发型或干性]霍乱",
+		"diseaseICDCode" : "A00.053",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 4,
+		"diseaseCode" : "QXFDXHL",
+		"diseaseName" : "轻型[非典型]霍乱",
+		"diseaseICDCode" : "A00.151",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 5,
+		"diseaseCode" : "AETHL",
+		"diseaseName" : "埃尔托霍乱",
+		"diseaseICDCode" : "A00.152",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 6,
+		"diseaseCode" : "AETXCY",
+		"diseaseName" : "埃尔托小肠炎",
+		"diseaseICDCode" : "A00.153",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 7,
+		"diseaseCode" : "HL",
+		"diseaseName" : "霍乱 NOS",
+		"diseaseICDCode" : "A00.901",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 8,
+		"diseaseCode" : "SH",
+		"diseaseName" : "伤寒",
+		"diseaseICDCode" : "A01.001",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 9,
+		"diseaseCode" : "SHGJXBXZ",
+		"diseaseName" : "伤寒杆菌性败血症",
+		"diseaseICDCode" : "A01.002",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 10,
+		"diseaseCode" : "SHXNMY",
+		"diseaseName" : "伤寒性脑膜炎",
+		"diseaseICDCode" : "A01.003+",
+		"diseaseCategoryID" : 232
+	},
+	{
+		"diseaseID" : 11,
+		"diseaseCode" : "SHFY",
+		"diseaseName" : "伤寒肺炎",
+		"diseaseICDCode" : "A01.051+",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 12,
+		"diseaseCode" : "SHFMY",
+		"diseaseName" : "伤寒腹膜炎",
+		"diseaseICDCode" : "A01.052",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 13,
+		"diseaseCode" : "ABTSBSH",
+		"diseaseName" : "埃贝特Eberth`s氏病(伤寒)",
+		"diseaseICDCode" : "A01.053",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 14,
+		"diseaseCode" : "CCXXSH",
+		"diseaseName" : "肠出血性伤寒",
+		"diseaseICDCode" : "A01.054",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 15,
+		"diseaseCode" : "SHXCCK",
+		"diseaseName" : "伤寒性肠穿孔",
+		"diseaseICDCode" : "A01.055",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 16,
+		"diseaseCode" : "CSH",
+		"diseaseName" : "肠伤寒",
+		"diseaseICDCode" : "A01.056",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 17,
+		"diseaseCode" : "SHYXCY",
+		"diseaseName" : "伤寒样小肠炎",
+		"diseaseICDCode" : "A01.057",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 18,
+		"diseaseCode" : "JXFSH",
+		"diseaseName" : "甲型副伤寒",
+		"diseaseICDCode" : "A01.101",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 19,
+		"diseaseCode" : "YXFSH",
+		"diseaseName" : "乙型副伤寒",
+		"diseaseICDCode" : "A01.201",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 20,
+		"diseaseCode" : "BXFSH",
+		"diseaseName" : "丙型副伤寒",
+		"diseaseICDCode" : "A01.301",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 21,
+		"diseaseCode" : "FSH",
+		"diseaseName" : "副伤寒",
+		"diseaseICDCode" : "A01.401",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 22,
+		"diseaseCode" : "QSMSJCY",
+		"diseaseName" : "Ｂ群沙门氏菌肠炎",
+		"diseaseICDCode" : "A02.001",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 23,
+		"diseaseCode" : "QSMSJCY",
+		"diseaseName" : "Ｃ群沙门氏菌肠炎",
+		"diseaseICDCode" : "A02.002",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 24,
+		"diseaseCode" : "AGLSMSJCY",
+		"diseaseName" : "阿哥拉沙门氏菌肠炎",
+		"diseaseICDCode" : "A02.003",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 25,
+		"diseaseCode" : "SMSJXCY",
+		"diseaseName" : "沙门氏菌性肠炎",
+		"diseaseICDCode" : "A02.004",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 26,
+		"diseaseCode" : "SMSJLDXQXCY",
+		"diseaseName" : "沙门氏菌伦敦血清型肠炎",
+		"diseaseICDCode" : "A02.005",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 27,
+		"diseaseCode" : "SMSJWCY",
+		"diseaseName" : "沙门氏菌胃肠炎",
+		"diseaseICDCode" : "A02.006",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 28,
+		"diseaseCode" : "SSHSMSJXCY",
+		"diseaseName" : "鼠伤寒沙门氏菌性肠炎",
+		"diseaseICDCode" : "A02.007",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 29,
+		"diseaseCode" : "YESMSJCY",
+		"diseaseName" : "婴儿沙门氏菌肠炎",
+		"diseaseICDCode" : "A02.008",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 30,
+		"diseaseCode" : "SMSJCDGR",
+		"diseaseName" : "沙门氏菌肠道感染",
+		"diseaseICDCode" : "A02.051",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 31,
+		"diseaseCode" : "SMSJYLSNXCY",
+		"diseaseName" : "沙门氏菌(亚利桑那)小肠炎",
+		"diseaseICDCode" : "A02.052",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 32,
+		"diseaseCode" : "SMSJBXZ",
+		"diseaseName" : "沙门氏菌败血症",
+		"diseaseICDCode" : "A02.101",
+		"diseaseCategoryID" : 9
+	},
+	{
+		"diseaseID" : 33,
+		"diseaseCode" : "SMSJSSHBYBXZ",
+		"diseaseName" : "沙门氏菌鼠伤寒伴有败血症",
+		"diseaseICDCode" : "A02.102",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 34,
+		"diseaseCode" : "SMSJXFY",
+		"diseaseName" : "沙门氏菌性肺炎",
+		"diseaseICDCode" : "A02.201+",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 35,
+		"diseaseCode" : "SMSJXGJY",
+		"diseaseName" : "沙门氏菌性关节炎",
+		"diseaseICDCode" : "A02.202+",
+		"diseaseCategoryID" : 123
+	},
+	{
+		"diseaseID" : 36,
+		"diseaseCode" : "SMSJXNMY",
+		"diseaseName" : "沙门氏菌性脑膜炎",
+		"diseaseICDCode" : "A02.203+",
+		"diseaseCategoryID" : 232
+	},
+	{
+		"diseaseID" : 37,
+		"diseaseCode" : "SMSJXGSY",
+		"diseaseName" : "沙门氏菌性骨髓炎",
+		"diseaseICDCode" : "A02.251+",
+		"diseaseCategoryID" : 114
+	},
+	{
+		"diseaseID" : 38,
+		"diseaseCode" : "SMSJXSXGJZB",
+		"diseaseName" : "沙门氏菌性肾小管-间质病",
+		"diseaseICDCode" : "A02.252+",
+		"diseaseCategoryID" : 161
+	},
+	{
+		"diseaseID" : 39,
+		"diseaseCode" : "QTTZDSMSJGR",
+		"diseaseName" : "其他特指的沙门氏菌感染",
+		"diseaseICDCode" : "A02.851",
+		"diseaseCategoryID" : 95
+	},
+	{
+		"diseaseID" : 40,
+		"diseaseCode" : "SMSJGR",
+		"diseaseName" : "沙门氏菌感染 NOS",
+		"diseaseICDCode" : "A02.901",
+		"diseaseCategoryID" : 95
+	},
+	{
+		"diseaseID" : 41,
+		"diseaseCode" : "SSHSMSJGR",
+		"diseaseName" : "鼠伤寒沙门氏菌感染",
+		"diseaseICDCode" : "A02.902",
+		"diseaseCategoryID" : 306
+	},
+	{
+		"diseaseID" : 42,
+		"diseaseCode" : "SMSJSSWZD",
+		"diseaseName" : "沙门氏菌属食物中毒",
+		"diseaseICDCode" : "A02.903",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 43,
+		"diseaseCode" : "SMSZHJLJ",
+		"diseaseName" : "什密氏志贺菌痢疾",
+		"diseaseICDCode" : "A03.001",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 44,
+		"diseaseCode" : "ZHKLZLJYQZHJB",
+		"diseaseName" : "志贺-克鲁泽痢疾[A亚群志贺菌病]",
+		"diseaseICDCode" : "A03.051",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 45,
+		"diseaseCode" : "SMCSDCLJ",
+		"diseaseName" : "施米茨(－施蒂策)痢疾",
+		"diseaseICDCode" : "A03.052",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 46,
+		"diseaseCode" : "FSZHJLJ",
+		"diseaseName" : "弗氏志贺菌痢疾",
+		"diseaseICDCode" : "A03.101",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 47,
+		"diseaseCode" : "XSLSXJXLJ",
+		"diseaseName" : "希斯－罗素细菌性痢疾",
+		"diseaseICDCode" : "A03.151",
+		"diseaseCategoryID" : 380
+	},
+	{
+		"diseaseID" : 48,
+		"diseaseCode" : "BSZHJLJ",
+		"diseaseName" : "鲍氏志贺菌痢疾",
+		"diseaseICDCode" : "A03.201",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 49,
+		"diseaseCode" : "BYDXJXLJ",
+		"diseaseName" : "波伊德细菌性痢疾",
+		"diseaseICDCode" : "A03.251",
+		"diseaseCategoryID" : 380
+	},
+	{
+		"diseaseID" : 50,
+		"diseaseCode" : "SNSZHJLJ",
+		"diseaseName" : "宋内氏志贺菌痢疾",
+		"diseaseICDCode" : "A03.301",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 51,
+		"diseaseCode" : "BDXZHJLJ",
+		"diseaseName" : "不定型志贺菌痢疾",
+		"diseaseICDCode" : "A03.801",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 52,
+		"diseaseCode" : "JLHHGR",
+		"diseaseName" : "菌痢混合感染",
+		"diseaseICDCode" : "A03.802",
+		"diseaseCategoryID" : 95
+	},
+	{
+		"diseaseID" : 53,
+		"diseaseCode" : "QTZHJLJ",
+		"diseaseName" : "其他志贺菌痢疾",
+		"diseaseICDCode" : "A03.851",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 54,
+		"diseaseCode" : "XJXLJ",
+		"diseaseName" : "细菌性痢疾 NOS",
+		"diseaseICDCode" : "A03.901",
+		"diseaseCategoryID" : 380
+	},
+	{
+		"diseaseID" : 55,
+		"diseaseCode" : "MXXJXLJJXFZ",
+		"diseaseName" : "慢性细菌性痢疾急性发作",
+		"diseaseICDCode" : "A03.902",
+		"diseaseCategoryID" : 380
+	},
+	{
+		"diseaseID" : 56,
+		"diseaseCode" : "MXQYXXJXLJ",
+		"diseaseName" : "慢性迁延型细菌性痢疾",
+		"diseaseICDCode" : "A03.903",
+		"diseaseCategoryID" : 380
+	},
+	{
+		"diseaseID" : 57,
+		"diseaseCode" : "MXYFXJL",
+		"diseaseName" : "慢性隐伏型菌痢",
+		"diseaseICDCode" : "A03.904",
+		"diseaseCategoryID" : 278
+	},
+	{
+		"diseaseID" : 58,
+		"diseaseCode" : "ZDXBFXLJ",
+		"diseaseName" : "中毒性[暴发型]痢疾",
+		"diseaseICDCode" : "A03.905",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 59,
+		"diseaseCode" : "XJXJCY",
+		"diseaseName" : "细菌性结肠炎",
+		"diseaseICDCode" : "A03.951",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 60,
+		"diseaseCode" : "XJXGJYLJ",
+		"diseaseName" : "细菌性关节炎痢疾",
+		"diseaseICDCode" : "A03.952+",
+		"diseaseCategoryID" : 123
+	},
+	{
+		"diseaseID" : 61,
+		"diseaseCode" : "XSECBYXDCAXSJCY",
+		"diseaseName" : "新生儿肠病原性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.001",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 62,
+		"diseaseCode" : "CBYXDCAXSJCY",
+		"diseaseName" : "肠病原性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.002",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 63,
+		"diseaseCode" : "CDYBXDCAXSJGR",
+		"diseaseName" : "肠道原病性大肠埃希氏菌感染",
+		"diseaseICDCode" : "A04.051",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 64,
+		"diseaseCode" : "CDXDCAXSJCY",
+		"diseaseName" : "肠毒性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.101",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 65,
+		"diseaseCode" : "XSECDXDCAXSJCY",
+		"diseaseName" : "新生儿肠毒性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.102",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 66,
+		"diseaseCode" : "CDXDCAXSJGR",
+		"diseaseName" : "肠毒性大肠埃希氏菌感染",
+		"diseaseICDCode" : "A04.151",
+		"diseaseCategoryID" : 95
+	},
+	{
+		"diseaseID" : 67,
+		"diseaseCode" : "QXXDCAXSJCY",
+		"diseaseName" : "侵袭性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.201",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 68,
+		"diseaseCode" : "XSEQXXDCGJCY",
+		"diseaseName" : "新生儿侵袭性大肠杆菌肠炎",
+		"diseaseICDCode" : "A04.202",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 69,
+		"diseaseCode" : "CXXDCAXSJCY",
+		"diseaseName" : "出血性大肠埃希氏菌肠炎",
+		"diseaseICDCode" : "A04.301",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 70,
+		"diseaseCode" : "XSECXXDCGJCY",
+		"diseaseName" : "新生儿出血性大肠杆菌肠炎",
+		"diseaseICDCode" : "A04.302",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 71,
+		"diseaseCode" : "DCAXSGJXCDGR",
+		"diseaseName" : "大肠埃希氏杆菌性肠道感染",
+		"diseaseICDCode" : "A04.401",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 72,
+		"diseaseCode" : "XSEDCGJCY",
+		"diseaseName" : "新生儿大肠杆菌肠炎",
+		"diseaseICDCode" : "A04.402",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 73,
+		"diseaseCode" : "XSENFXDCGJCY",
+		"diseaseName" : "新生儿粘附性大肠杆菌肠炎",
+		"diseaseICDCode" : "A04.403",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 74,
+		"diseaseCode" : "NFXDCGJCY",
+		"diseaseName" : "粘附性大肠杆菌肠炎",
+		"diseaseICDCode" : "A04.404",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 75,
+		"diseaseCode" : "WQGJCY",
+		"diseaseName" : "弯曲杆菌肠炎",
+		"diseaseICDCode" : "A04.501",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 76,
+		"diseaseCode" : "YESSJCYBXB",
+		"diseaseName" : "耶尔森氏菌肠炎[冰箱病]",
+		"diseaseICDCode" : "A04.601",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 77,
+		"diseaseCode" : "NBSZYBGJCY",
+		"diseaseName" : "难辨梭状芽胞杆菌肠炎",
+		"diseaseICDCode" : "A04.701",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 78,
+		"diseaseCode" : "NBSZYBGJXXCJCY",
+		"diseaseName" : "难辨梭状芽胞杆菌性小肠结肠炎",
+		"diseaseICDCode" : "A04.751",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 79,
+		"diseaseCode" : "BLDBJCY",
+		"diseaseName" : "吡邻单胞菌肠炎",
+		"diseaseICDCode" : "A04.801",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 80,
+		"diseaseCode" : "BXGJXCY",
+		"diseaseName" : "变形杆菌性肠炎",
+		"diseaseICDCode" : "A04.802",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 81,
+		"diseaseCode" : "CQGJCY",
+		"diseaseName" : "产气杆菌肠炎",
+		"diseaseICDCode" : "A04.803",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 82,
+		"diseaseCode" : "CDYYJGR",
+		"diseaseName" : "肠道厌氧菌感染",
+		"diseaseICDCode" : "A04.804",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 83,
+		"diseaseCode" : "FHL",
+		"diseaseName" : "副霍乱",
+		"diseaseICDCode" : "A04.805",
+		"diseaseCategoryID" : 140
+	},
+	{
+		"diseaseID" : 84,
+		"diseaseCode" : "FRXGJCY",
+		"diseaseName" : "副溶血孤菌肠炎",
+		"diseaseICDCode" : "A04.806",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 85,
+		"diseaseCode" : "JHSPTQJXCY",
+		"diseaseName" : "金黄色葡萄球菌性肠炎",
+		"diseaseICDCode" : "A04.807",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 86,
+		"diseaseCode" : "LNGJXCY",
+		"diseaseName" : "绿脓杆菌性肠炎",
+		"diseaseICDCode" : "A04.808",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 87,
+		"diseaseCode" : "NBYBGJCY",
+		"diseaseName" : "难辨芽胞杆菌肠炎",
+		"diseaseICDCode" : "A04.809",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 88,
+		"diseaseCode" : "SSQDBJCY",
+		"diseaseName" : "嗜水气单胞菌肠炎",
+		"diseaseICDCode" : "A04.810",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 89,
+		"diseaseCode" : "CQJMSZYBGJCQJMGJCY",
+		"diseaseName" : "产气荚膜梭状芽胞杆菌(产气荚膜杆菌)肠炎",
+		"diseaseICDCode" : "A04.851",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 90,
+		"diseaseCode" : "CDGR",
+		"diseaseName" : "肠道感染",
+		"diseaseICDCode" : "A04.901",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 91,
+		"diseaseCode" : "XJXCY",
+		"diseaseName" : "细菌性肠炎 NOS",
+		"diseaseICDCode" : "A04.902",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 92,
+		"diseaseCode" : "GRXFX",
+		"diseaseName" : "感染性腹泻",
+		"diseaseICDCode" : "A04.903",
+		"diseaseCategoryID" : 95
+	},
+	{
+		"diseaseID" : 93,
+		"diseaseCode" : "PTQJXSWZD",
+		"diseaseName" : "葡萄球菌性食物中毒",
+		"diseaseICDCode" : "A05.001",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 94,
+		"diseaseCode" : "RDZD",
+		"diseaseName" : "肉毒中毒",
+		"diseaseICDCode" : "A05.101",
+		"diseaseCategoryID" : 471
+	},
+	{
+		"diseaseID" : 95,
+		"diseaseCode" : "RDSZYBGJXSWZD",
+		"diseaseName" : "肉毒梭状芽胞杆菌性食物中毒",
+		"diseaseICDCode" : "A05.151",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 96,
+		"diseaseCode" : "CXXHSXCY",
+		"diseaseName" : "出血性坏死性肠炎",
+		"diseaseICDCode" : "A05.201",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 97,
+		"diseaseCode" : "JXHSXCY",
+		"diseaseName" : "急性坏死性肠炎",
+		"diseaseICDCode" : "A05.202",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 98,
+		"diseaseCode" : "JXCXXHSXCY",
+		"diseaseName" : "急性出血性坏死性肠炎",
+		"diseaseICDCode" : "A05.203",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 99,
+		"diseaseCode" : "HSXCY",
+		"diseaseName" : "坏死性肠炎",
+		"diseaseICDCode" : "A05.251",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 100,
+		"diseaseCode" : "CQJMSZYBGJWEXSZYBGJX",
+		"diseaseName" : "产气夹膜梭状芽胞杆菌[韦尔希梭状芽胞杆菌]性食物中毒",
+		"diseaseICDCode" : "A05.252",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 101,
+		"diseaseCode" : "ZFB",
+		"diseaseName" : "猪腹病",
+		"diseaseICDCode" : "A05.253",
+		"diseaseCategoryID" : 264
+	},
+	{
+		"diseaseID" : 102,
+		"diseaseCode" : "FRXHJXSWZD",
+		"diseaseName" : "副溶血弧菌性食物中毒",
+		"diseaseICDCode" : "A05.301",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 103,
+		"diseaseCode" : "LYYBGJXSWZD",
+		"diseaseName" : "蜡样芽胞杆菌性食物中毒",
+		"diseaseICDCode" : "A05.451",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 104,
+		"diseaseCode" : "DCGJXSWZD",
+		"diseaseName" : "大肠杆菌性食物中毒",
+		"diseaseICDCode" : "A05.851",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 105,
+		"diseaseCode" : "SYGJXSWZD",
+		"diseaseName" : "嗜盐杆菌性食物中毒",
+		"diseaseICDCode" : "A05.852",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 106,
+		"diseaseCode" : "XJXSWZD",
+		"diseaseName" : "细菌性食物中毒",
+		"diseaseICDCode" : "A05.901",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 107,
+		"diseaseCode" : "SWZD",
+		"diseaseName" : "食物中毒 NOS",
+		"diseaseICDCode" : "A05.951",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 108,
+		"diseaseCode" : "WCXSWZD",
+		"diseaseName" : "胃肠型食物中毒",
+		"diseaseICDCode" : "A05.952",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 109,
+		"diseaseCode" : "XCLCSWZD",
+		"diseaseName" : "香肠(腊肠)食物中毒",
+		"diseaseICDCode" : "A05.953",
+		"diseaseCategoryID" : 324
+	},
+	{
+		"diseaseID" : 110,
+		"diseaseCode" : "AMBXCY",
+		"diseaseName" : "阿米巴性肠炎",
+		"diseaseICDCode" : "A06.001",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 111,
+		"diseaseCode" : "AMBXJCY",
+		"diseaseName" : "阿米巴性结肠炎",
+		"diseaseICDCode" : "A06.002",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 112,
+		"diseaseCode" : "AMBXLJ",
+		"diseaseName" : "阿米巴性痢疾",
+		"diseaseICDCode" : "A06.003",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 113,
+		"diseaseCode" : "CDAMBB",
+		"diseaseName" : "肠道阿米巴病 NOS",
+		"diseaseICDCode" : "A06.004",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 114,
+		"diseaseCode" : "JXAMBLJ",
+		"diseaseName" : "急性阿米巴痢疾",
+		"diseaseICDCode" : "A06.005",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 115,
+		"diseaseCode" : "JXAMBB",
+		"diseaseName" : "急性阿米巴病",
+		"diseaseICDCode" : "A06.051",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 116,
+		"diseaseCode" : "MXCDAMBB",
+		"diseaseName" : "慢性肠道阿米巴病",
+		"diseaseICDCode" : "A06.101",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 117,
+		"diseaseCode" : "MXAMBXLJ",
+		"diseaseName" : "慢性阿米巴性痢疾",
+		"diseaseICDCode" : "A06.151",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 118,
+		"diseaseCode" : "AMBCKY",
+		"diseaseName" : "阿米巴(肠)溃疡",
+		"diseaseICDCode" : "A06.152",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 119,
+		"diseaseCode" : "MXAMBB",
+		"diseaseName" : "慢性阿米巴病",
+		"diseaseICDCode" : "A06.153",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 120,
+		"diseaseCode" : "MXAMBBCY",
+		"diseaseName" : "慢性阿米巴病肠炎",
+		"diseaseICDCode" : "A06.154",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 121,
+		"diseaseCode" : "FLJXAMBJCY",
+		"diseaseName" : "非痢疾性阿米巴结肠炎",
+		"diseaseICDCode" : "A06.201",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 122,
+		"diseaseCode" : "FLJXAMBCY",
+		"diseaseName" : "非痢疾性阿米巴肠炎",
+		"diseaseICDCode" : "A06.251",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 123,
+		"diseaseCode" : "JXFLJXAMBCY",
+		"diseaseName" : "急性非痢疾性阿米巴肠炎",
+		"diseaseICDCode" : "A06.252",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 124,
+		"diseaseCode" : "MXFLJXAMBCY",
+		"diseaseName" : "慢性非痢疾性阿米巴肠炎",
+		"diseaseICDCode" : "A06.253",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 125,
+		"diseaseCode" : "AMBXRYZAMBL",
+		"diseaseName" : "阿米巴性肉芽肿(阿米巴瘤)",
+		"diseaseICDCode" : "A06.301",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 126,
+		"diseaseCode" : "AMBBCCK",
+		"diseaseName" : "阿米巴病肠穿孔",
+		"diseaseICDCode" : "A06.351",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 127,
+		"diseaseCode" : "CDAMB",
+		"diseaseName" : "肠道阿米巴",
+		"diseaseICDCode" : "A06.352",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 128,
+		"diseaseCode" : "AMBXGNZ",
+		"diseaseName" : "阿米巴性肝脓肿",
+		"diseaseICDCode" : "A06.401",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 129,
+		"diseaseCode" : "GAMBB",
+		"diseaseName" : "肝阿米巴病",
+		"diseaseICDCode" : "A06.402",
+		"diseaseCategoryID" : 92
+	},
+	{
+		"diseaseID" : 130,
+		"diseaseCode" : "AMBNZ",
+		"diseaseName" : "阿米巴脓肿",
+		"diseaseICDCode" : "A06.451",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 131,
+		"diseaseCode" : "AMBXFNZ",
+		"diseaseName" : "阿米巴性肺脓肿",
+		"diseaseICDCode" : "A06.501+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 132,
+		"diseaseCode" : "GFAMBNZ",
+		"diseaseName" : "肝肺阿米巴脓肿",
+		"diseaseICDCode" : "A06.502+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 133,
+		"diseaseCode" : "AMBXNNZ",
+		"diseaseName" : "阿米巴性脑脓肿",
+		"diseaseICDCode" : "A06.651+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 134,
+		"diseaseCode" : "AMBNHGNZ",
+		"diseaseName" : "阿米巴脑和肝脓肿",
+		"diseaseICDCode" : "A06.652+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 135,
+		"diseaseCode" : "AMBNHFNZ",
+		"diseaseName" : "阿米巴脑和肺脓肿",
+		"diseaseICDCode" : "A06.653+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 136,
+		"diseaseCode" : "AMBNHGFNZ",
+		"diseaseName" : "阿米巴脑和肝、肺脓肿",
+		"diseaseICDCode" : "A06.654+",
+		"diseaseCategoryID" : 243
+	},
+	{
+		"diseaseID" : 137,
+		"diseaseCode" : "AMBXPFKY",
+		"diseaseName" : "阿米巴性皮肤溃疡",
+		"diseaseICDCode" : "A06.701",
+		"diseaseCategoryID" : 250
+	},
+	{
+		"diseaseID" : 138,
+		"diseaseCode" : "AMBPY",
+		"diseaseName" : "阿米巴皮炎",
+		"diseaseICDCode" : "A06.751",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 139,
+		"diseaseCode" : "FAMBB",
+		"diseaseName" : "肺阿米巴病",
+		"diseaseICDCode" : "A06.801+",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 140,
+		"diseaseCode" : "AMBXLWY",
+		"diseaseName" : "阿米巴性阑尾炎",
+		"diseaseICDCode" : "A06.851",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 141,
+		"diseaseCode" : "AMBXWYY",
+		"diseaseName" : "阿米巴性外阴炎",
+		"diseaseICDCode" : "A06.852",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 142,
+		"diseaseCode" : "AMBXXBY",
+		"diseaseName" : "阿米巴性心包炎",
+		"diseaseICDCode" : "A06.853+",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 143,
+		"diseaseCode" : "AMBXGTY",
+		"diseaseName" : "阿米巴性龟头炎",
+		"diseaseICDCode" : "A06.854+",
+		"diseaseCategoryID" : 126
+	},
+	{
+		"diseaseID" : 144,
+		"diseaseCode" : "AMBB",
+		"diseaseName" : "阿米巴病 NOS",
+		"diseaseICDCode" : "A06.901",
+		"diseaseCategoryID" : 1
+	},
+	{
+		"diseaseID" : 145,
+		"diseaseCode" : "XDCB",
+		"diseaseName" : "小袋虫病",
+		"diseaseICDCode" : "A07.001",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 146,
+		"diseaseCode" : "XDCXLJ",
+		"diseaseName" : "小袋虫性痢疾",
+		"diseaseICDCode" : "A07.051",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 147,
+		"diseaseCode" : "JDCBCJDCLBBMCB",
+		"diseaseName" : "贾第虫病(肠贾第虫)[兰伯鞭毛虫病]",
+		"diseaseICDCode" : "A07.101",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 148,
+		"diseaseCode" : "CLXBMCBLSJDBMCB",
+		"diseaseName" : "肠梨形鞭毛虫病[蓝氏贾第鞭毛虫病]",
+		"diseaseICDCode" : "A07.151",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 149,
+		"diseaseCode" : "YBZCB",
+		"diseaseName" : "隐孢子虫病",
+		"diseaseICDCode" : "A07.251",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 150,
+		"diseaseCode" : "DBZQCBQCB",
+		"diseaseName" : "等孢子球虫病(球虫病)",
+		"diseaseICDCode" : "A07.301",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 151,
+		"diseaseCode" : "CDQCB",
+		"diseaseName" : "肠道球虫病",
+		"diseaseICDCode" : "A07.351",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 152,
+		"diseaseCode" : "CDDCB",
+		"diseaseName" : "肠道滴虫病",
+		"diseaseICDCode" : "A07.801",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 153,
+		"diseaseCode" : "RBZCB",
+		"diseaseName" : "肉孢子虫病",
+		"diseaseICDCode" : "A07.802",
+		"diseaseCategoryID" : 36
+	},
+	{
+		"diseaseID" : 154,
+		"diseaseCode" : "CDMDCB",
+		"diseaseName" : "肠道毛滴虫病",
+		"diseaseICDCode" : "A07.851",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 155,
+		"diseaseCode" : "BMCXFX",
+		"diseaseName" : "鞭毛虫性腹泻",
+		"diseaseICDCode" : "A07.951",
+		"diseaseCategoryID" : 91
+	},
+	{
+		"diseaseID" : 156,
+		"diseaseCode" : "YSDWXJCY",
+		"diseaseName" : "原生动物性结肠炎",
+		"diseaseICDCode" : "A07.952",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 157,
+		"diseaseCode" : "YSDWXLJ",
+		"diseaseName" : "原生动物性痢疾",
+		"diseaseICDCode" : "A07.953",
+		"diseaseCategoryID" : 200
+	},
+	{
+		"diseaseID" : 158,
+		"diseaseCode" : "YSDWXFX",
+		"diseaseName" : "原生动物性腹泻",
+		"diseaseICDCode" : "A07.954",
+		"diseaseCategoryID" : 91
+	},
+	{
+		"diseaseID" : 159,
+		"diseaseCode" : "XZLZBDCY",
+		"diseaseName" : "旋转(轮状)病毒肠炎",
+		"diseaseICDCode" : "A08.001",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 160,
+		"diseaseCode" : "NWKBDCY",
+		"diseaseName" : "诺瓦克病毒肠炎",
+		"diseaseICDCode" : "A08.101",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 161,
+		"diseaseCode" : "LXXEX",
+		"diseaseName" : "流行性恶心",
+		"diseaseICDCode" : "A08.151",
+		"diseaseCategoryID" : 68
+	},
+	{
+		"diseaseID" : 162,
+		"diseaseCode" : "LXXBDXNWKXWCB",
+		"diseaseName" : "流行性病毒性诺瓦克型胃肠病",
+		"diseaseICDCode" : "A08.152",
+		"diseaseCategoryID" : 370
+	},
+	{
+		"diseaseID" : 163,
+		"diseaseCode" : "LXXOTZHZBLDLB",
+		"diseaseName" : "流行性呕吐综合征[布拉德利病]",
+		"diseaseICDCode" : "A08.153",
+		"diseaseCategoryID" : 268
+	},
+	{
+		"diseaseID" : 164,
+		"diseaseCode" : "LXXWCYSPSB",
+		"diseaseName" : "流行性胃肠炎[斯潘塞病]",
+		"diseaseICDCode" : "A08.154",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 165,
+		"diseaseCode" : "XYJGBDXCY",
+		"diseaseName" : "小圆结构病毒性肠炎",
+		"diseaseICDCode" : "A08.155",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 166,
+		"diseaseCode" : "XBDCY",
+		"diseaseName" : "腺病毒肠炎",
+		"diseaseICDCode" : "A08.201",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 167,
+		"diseaseCode" : "LZBDWCY",
+		"diseaseName" : "轮转病毒胃肠炎",
+		"diseaseICDCode" : "A08.351",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 168,
+		"diseaseCode" : "BDXCY",
+		"diseaseName" : "病毒性肠炎",
+		"diseaseICDCode" : "A08.401",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 169,
+		"diseaseCode" : "BDXWCY",
+		"diseaseName" : "病毒性胃肠炎",
+		"diseaseICDCode" : "A08.402",
+		"diseaseCategoryID" : 33
+	},
+	{
+		"diseaseID" : 170,
+		"diseaseCode" : "CDBDGR",
+		"diseaseName" : "肠道病毒感染",
+		"diseaseICDCode" : "A08.451",
+		"diseaseCategoryID" : 31
+	},
+	{
+		"diseaseID" : 171,
+		"diseaseCode" : "BDXWCB",
+		"diseaseName" : "病毒性胃肠病",
+		"diseaseICDCode" : "A08.452",
+		"diseaseCategoryID" : 370
+	},
+	{
+		"diseaseID" : 172,
+		"diseaseCode" : "FJHXWJJZS",
+		"diseaseName" : "肺结核，显微镜检证实",
+		"diseaseICDCode" : "A15.001",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 173,
+		"diseaseCode" : "JHXFXWBXJXWJXTJCZS",
+		"diseaseName" : "结核性肺纤维变性，经显微镜下痰检查证实",
+		"diseaseICDCode" : "A15.051",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 174,
+		"diseaseCode" : "JHXQXJXWJXTJCZS",
+		"diseaseName" : "结核性气胸，经显微镜下痰检查证实",
+		"diseaseICDCode" : "A15.052",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 175,
+		"diseaseCode" : "JHXFYJXWJXTJCZS",
+		"diseaseName" : "结核性肺炎，经显微镜下痰检查证实",
+		"diseaseICDCode" : "A15.053",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 176,
+		"diseaseCode" : "JHXZQGKZJXWJXTJCZS",
+		"diseaseName" : "结核性支气管扩张，经显微镜下痰检查证实",
+		"diseaseICDCode" : "A15.054",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 177,
+		"diseaseCode" : "FJHBJJTPYSZS",
+		"diseaseName" : "肺结核病，仅经痰培养所证实",
+		"diseaseICDCode" : "A15.101",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 178,
+		"diseaseCode" : "JHXFXWBXJJTPYSZS",
+		"diseaseName" : "结核性肺纤维变性，仅经痰培养所证实",
+		"diseaseICDCode" : "A15.151",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 179,
+		"diseaseCode" : "JHXQXJJTPYSZS",
+		"diseaseName" : "结核性气胸，仅经痰培养所证实",
+		"diseaseICDCode" : "A15.152",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 180,
+		"diseaseCode" : "JHXFYJJTPYSZS",
+		"diseaseName" : "结核性肺炎，仅经痰培养所证实",
+		"diseaseICDCode" : "A15.153",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 181,
+		"diseaseCode" : "JHXZQGKZJJTPYSZS",
+		"diseaseName" : "结核性支气管扩张，仅经痰培养所证实",
+		"diseaseICDCode" : "A15.154",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 182,
+		"diseaseCode" : "FJHBJZZXSZS",
+		"diseaseName" : "肺结核病，经组织学所证实",
+		"diseaseICDCode" : "A15.201",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 183,
+		"diseaseCode" : "JHXFXWBXJZZXSZS",
+		"diseaseName" : "结核性肺纤维变性，经组织学所证实",
+		"diseaseICDCode" : "A15.251",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 184,
+		"diseaseCode" : "JHXQXJZZXSZS",
+		"diseaseName" : "结核性气胸，经组织学所证实",
+		"diseaseICDCode" : "A15.252",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 185,
+		"diseaseCode" : "JHXFYJZZXSZS",
+		"diseaseName" : "结核性肺炎，经组织学所证实",
+		"diseaseICDCode" : "A15.253",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 186,
+		"diseaseCode" : "JHXZQGKZJZZXSZS",
+		"diseaseName" : "结核性支气管扩张，经组织学所证实",
+		"diseaseICDCode" : "A15.254",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 187,
+		"diseaseCode" : "FJHBJWTZDFFSZS",
+		"diseaseName" : "肺结核病，经未特指的方法所证实",
+		"diseaseICDCode" : "A15.351",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 188,
+		"diseaseCode" : "JHXFXWBXJWTZDFFSZS",
+		"diseaseName" : "结核性肺纤维变性，经未特指的方法所证实",
+		"diseaseICDCode" : "A15.352",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 189,
+		"diseaseCode" : "JHXQXJWTZDFFSZS",
+		"diseaseName" : "结核性气胸，经未特指的方法所证实",
+		"diseaseICDCode" : "A15.353",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 190,
+		"diseaseCode" : "JHXFYJWTZDFFSZS",
+		"diseaseName" : "结核性肺炎，经未特指的方法所证实",
+		"diseaseICDCode" : "A15.354",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 191,
+		"diseaseCode" : "JHXZQGKZJWTZDFFSZS",
+		"diseaseName" : "结核性支气管扩张，经未特指的方法所证实",
+		"diseaseICDCode" : "A15.355",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 192,
+		"diseaseCode" : "FMLBJJHBJXJXHZZXSZS",
+		"diseaseName" : "肺门淋巴结结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.451",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 193,
+		"diseaseCode" : "ZGLBJJHBJXJXHZZXSZS",
+		"diseaseName" : "纵隔淋巴结结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.452",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 194,
+		"diseaseCode" : "QGZQGLBJJHBJXJXHZZXS",
+		"diseaseName" : "气管支气管淋巴结结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.453",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 195,
+		"diseaseCode" : "FMLBJJHYZS",
+		"diseaseName" : "肺门淋巴结结核,已证实",
+		"diseaseICDCode" : "A15.501",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 196,
+		"diseaseCode" : "ZQGJHBJXJXHZZXSZS",
+		"diseaseName" : "支气管结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.551",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 197,
+		"diseaseCode" : "SMJHBJXJXHZZXSZS",
+		"diseaseName" : "声门结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.552",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 198,
+		"diseaseCode" : "HJHBJXJXHZZXSZS",
+		"diseaseName" : "喉结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.553",
+		"diseaseCategoryID" : 133
+	},
+	{
+		"diseaseID" : 199,
+		"diseaseCode" : "QGJHBJXJXHZZXSZS",
+		"diseaseName" : "气管结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.554",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 200,
+		"diseaseCode" : "JHXXMYJXJXHZZXSZS",
+		"diseaseName" : "结核性胸膜炎，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.601",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 201,
+		"diseaseCode" : "JHXNXJXJXHZZXSZS",
+		"diseaseName" : "结核性脓胸，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.651",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 202,
+		"diseaseCode" : "YFXHXDJHBJXJXHZZXSZS",
+		"diseaseName" : "原发性呼吸道结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.751",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 203,
+		"diseaseCode" : "ZGJHBJXJXHZZSZS",
+		"diseaseName" : "纵隔结核病，经细菌学和组织所证实",
+		"diseaseICDCode" : "A15.851",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 204,
+		"diseaseCode" : "BYJHBJXJXHZZXSZS",
+		"diseaseName" : "鼻咽结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.852",
+		"diseaseCategoryID" : 16
+	},
+	{
+		"diseaseID" : 205,
+		"diseaseCode" : "DRHBDJHBJXJXHZZXSZS",
+		"diseaseName" : "窦(任何鼻窦)结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.853",
+		"diseaseCategoryID" : 16
+	},
+	{
+		"diseaseID" : 206,
+		"diseaseCode" : "BJHBJXJXHZZXSZS",
+		"diseaseName" : "鼻结核病，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.854",
+		"diseaseCategoryID" : 16
+	},
+	{
+		"diseaseID" : 207,
+		"diseaseCode" : "HXJHBJXJXHZZXSZS",
+		"diseaseName" : "呼吸结核病 NOS，经细菌学和组织学所证实",
+		"diseaseICDCode" : "A15.951",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 208,
+		"diseaseCode" : "JHXZQGKZXJXHZZJCWYX",
+		"diseaseName" : "结核性支气管扩张，细菌学和组织检查为阴性",
+		"diseaseICDCode" : "A16.051",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 209,
+		"diseaseCode" : "JHXFXWBXXJXHZZXJCWYX",
+		"diseaseName" : "结核性肺纤维变性，细菌学和组织学检查为阴性",
+		"diseaseICDCode" : "A16.052",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 210,
+		"diseaseCode" : "JHXFYXJXHZZXJCWYX",
+		"diseaseName" : "结核性肺炎，细菌学和组织学检查为阴性",
+		"diseaseICDCode" : "A16.053",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 211,
+		"diseaseCode" : "JHXQXXJXHZZXJCWYX",
+		"diseaseName" : "结核性气胸，细菌学和组织学检查为阴性",
+		"diseaseICDCode" : "A16.054",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 212,
+		"diseaseCode" : "FJHBWXJXHZZXJC",
+		"diseaseName" : "肺结核病，未做细菌学和组织学检查",
+		"diseaseICDCode" : "A16.151",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 213,
+		"diseaseCode" : "JHXZQGKZWXJXHZZXJC",
+		"diseaseName" : "结核性支气管扩张，未做细菌学和组织学检查",
+		"diseaseICDCode" : "A16.152",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 214,
+		"diseaseCode" : "JHXFXWBXWXJXHZZXJC",
+		"diseaseName" : "结核性肺纤维变性，未做细菌学和组织学检查",
+		"diseaseICDCode" : "A16.153",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 215,
+		"diseaseCode" : "JHXFYWXJXHZZXJC",
+		"diseaseName" : "结核性肺炎，未做细菌学和组织学检查",
+		"diseaseICDCode" : "A16.154",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 216,
+		"diseaseCode" : "JHXQXWXJXHZZXJC",
+		"diseaseName" : "结核性气胸，未做细菌学和组织学检查",
+		"diseaseICDCode" : "A16.155",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 217,
+		"diseaseCode" : "FGLXJH",
+		"diseaseName" : "肺干酪性结核",
+		"diseaseICDCode" : "A16.201",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 218,
+		"diseaseCode" : "FJHWTJXJXHZZXDZS",
+		"diseaseName" : "肺结核，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.202",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 219,
+		"diseaseCode" : "FJHLWTJXJXHZZXDZS",
+		"diseaseName" : "肺结核瘤，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.203",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 220,
+		"diseaseCode" : "JHXFYGLXFYWTJXJXHZZX",
+		"diseaseName" : "结核性肺炎，未提及细菌学或组织学的证实(干酪性肺炎)",
+		"diseaseICDCode" : "A16.204",
+		"diseaseCategoryID" : 81
+	},
+	{
+		"diseaseID" : 221,
+		"diseaseCode" : "JHXFXWBXZZXWTJXJXHZZ",
+		"diseaseName" : "结核性肺纤维变性(增殖性)，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.205",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 222,
+		"diseaseCode" : "JHXZQGKZWTJXJXHZZXDZ",
+		"diseaseName" : "结核性支气管扩张，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.206",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 223,
+		"diseaseCode" : "JRXFJHWTJXJXHZZXDZS",
+		"diseaseName" : "浸润型肺结核，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.208",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 224,
+		"diseaseCode" : "KDXFJHWTJXJXHZZXDZS",
+		"diseaseName" : "空洞型肺结核，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.209",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 225,
+		"diseaseCode" : "ZZXFJHWTJXJXHZZXDZS",
+		"diseaseName" : "增殖型肺结核，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.210",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 226,
+		"diseaseCode" : "FCXJHXWTJXJXHZZXDZS",
+		"diseaseName" : "结核性肺出血，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.251",
+		"diseaseCategoryID" : 171
+	},
+	{
+		"diseaseID" : 227,
+		"diseaseCode" : "JJXFJHWTJXJXHZZXDZS",
+		"diseaseName" : "结节型肺结核，未提及细菌学或组织学的证实",
+		"diseaseICDCode" : "A16.252",
+		"diseaseCategoryID" : 171
+	}
+]

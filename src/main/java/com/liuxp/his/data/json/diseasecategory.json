@@ -1,0 +1,1930 @@
+[
+	{
+		"diseaseCategoryID" : 1,
+		"diseaseName" : "阿米巴病"
+	},
+	{
+		"diseaseCategoryID" : 2,
+		"diseaseName" : "癌症"
+	},
+	{
+		"diseaseCategoryID" : 3,
+		"diseaseName" : "白斑病"
+	},
+	{
+		"diseaseCategoryID" : 4,
+		"diseaseName" : "白内障"
+	},
+	{
+		"diseaseCategoryID" : 5,
+		"diseaseName" : "白血病"
+	},
+	{
+		"diseaseCategoryID" : 6,
+		"diseaseName" : "白血症"
+	},
+	{
+		"diseaseCategoryID" : 7,
+		"diseaseName" : "百日咳"
+	},
+	{
+		"diseaseCategoryID" : 8,
+		"diseaseName" : "败血病"
+	},
+	{
+		"diseaseCategoryID" : 9,
+		"diseaseName" : "败血症"
+	},
+	{
+		"diseaseCategoryID" : 10,
+		"diseaseName" : "斑疹热"
+	},
+	{
+		"diseaseCategoryID" : 11,
+		"diseaseName" : "瘢痕"
+	},
+	{
+		"diseaseCategoryID" : 12,
+		"diseaseName" : "半月板疾病"
+	},
+	{
+		"diseaseCategoryID" : 13,
+		"diseaseName" : "包皮疾病"
+	},
+	{
+		"diseaseCategoryID" : 14,
+		"diseaseName" : "孢子菌病"
+	},
+	{
+		"diseaseCategoryID" : 15,
+		"diseaseName" : "贲门疾病"
+	},
+	{
+		"diseaseCategoryID" : 16,
+		"diseaseName" : "鼻部疾病"
+	},
+	{
+		"diseaseCategoryID" : 17,
+		"diseaseName" : "扁桃体疾病"
+	},
+	{
+		"diseaseCategoryID" : 18,
+		"diseaseName" : "扁桃体炎"
+	},
+	{
+		"diseaseCategoryID" : 19,
+		"diseaseName" : "髌骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 20,
+		"diseaseName" : "病毒病"
+	},
+	{
+		"diseaseCategoryID" : 21,
+		"diseaseName" : "玻璃体疾病"
+	},
+	{
+		"diseaseCategoryID" : 22,
+		"diseaseName" : "玻璃体炎"
+	},
+	{
+		"diseaseCategoryID" : 23,
+		"diseaseName" : "不良性行为"
+	},
+	{
+		"diseaseCategoryID" : 24,
+		"diseaseName" : "不育症"
+	},
+	{
+		"diseaseCategoryID" : 25,
+		"diseaseName" : "产后疾病"
+	},
+	{
+		"diseaseCategoryID" : 26,
+		"diseaseName" : "产科疾病"
+	},
+	{
+		"diseaseCategoryID" : 27,
+		"diseaseName" : "产前检查"
+	},
+	{
+		"diseaseCategoryID" : 28,
+		"diseaseName" : "产伤"
+	},
+	{
+		"diseaseCategoryID" : 29,
+		"diseaseName" : "产伤引起的疾病"
+	},
+	{
+		"diseaseCategoryID" : 30,
+		"diseaseName" : "肠道传染病"
+	},
+	{
+		"diseaseCategoryID" : 31,
+		"diseaseName" : "肠道疾病"
+	},
+	{
+		"diseaseCategoryID" : 32,
+		"diseaseName" : "肠梗阻"
+	},
+	{
+		"diseaseCategoryID" : 33,
+		"diseaseName" : "肠炎"
+	},
+	{
+		"diseaseCategoryID" : 34,
+		"diseaseName" : "痴呆"
+	},
+	{
+		"diseaseCategoryID" : 35,
+		"diseaseName" : "齿槽疾病"
+	},
+	{
+		"diseaseCategoryID" : 36,
+		"diseaseName" : "虫病"
+	},
+	{
+		"diseaseCategoryID" : 37,
+		"diseaseName" : "抽动症"
+	},
+	{
+		"diseaseCategoryID" : 38,
+		"diseaseName" : "出血"
+	},
+	{
+		"diseaseCategoryID" : 39,
+		"diseaseName" : "出血热"
+	},
+	{
+		"diseaseCategoryID" : 40,
+		"diseaseName" : "除异物"
+	},
+	{
+		"diseaseCategoryID" : 41,
+		"diseaseName" : "搐动症"
+	},
+	{
+		"diseaseCategoryID" : 42,
+		"diseaseName" : "搐搦症"
+	},
+	{
+		"diseaseCategoryID" : 43,
+		"diseaseName" : "疮"
+	},
+	{
+		"diseaseCategoryID" : 44,
+		"diseaseName" : "创伤性疾病"
+	},
+	{
+		"diseaseCategoryID" : 45,
+		"diseaseName" : "垂体疾病"
+	},
+	{
+		"diseaseCategoryID" : 46,
+		"diseaseName" : "唇裂"
+	},
+	{
+		"diseaseCategoryID" : 47,
+		"diseaseName" : "促性腺激素缺乏症"
+	},
+	{
+		"diseaseCategoryID" : 48,
+		"diseaseName" : "痤疮"
+	},
+	{
+		"diseaseCategoryID" : 49,
+		"diseaseName" : "挫伤"
+	},
+	{
+		"diseaseCategoryID" : 50,
+		"diseaseName" : "大肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 51,
+		"diseaseName" : "呆小病"
+	},
+	{
+		"diseaseCategoryID" : 52,
+		"diseaseName" : "代谢紊乱"
+	},
+	{
+		"diseaseCategoryID" : 53,
+		"diseaseName" : "胆囊疾病"
+	},
+	{
+		"diseaseCategoryID" : 54,
+		"diseaseName" : "蛋白尿"
+	},
+	{
+		"diseaseCategoryID" : 55,
+		"diseaseName" : "倒睫"
+	},
+	{
+		"diseaseCategoryID" : 56,
+		"diseaseName" : "低血糖"
+	},
+	{
+		"diseaseCategoryID" : 57,
+		"diseaseName" : "癫痫"
+	},
+	{
+		"diseaseCategoryID" : 58,
+		"diseaseName" : "动脉闭塞"
+	},
+	{
+		"diseaseCategoryID" : 59,
+		"diseaseName" : "动脉供血不足"
+	},
+	{
+		"diseaseCategoryID" : 60,
+		"diseaseName" : "动脉回流"
+	},
+	{
+		"diseaseCategoryID" : 61,
+		"diseaseName" : "动脉扩张"
+	},
+	{
+		"diseaseCategoryID" : 62,
+		"diseaseName" : "动脉瘤"
+	},
+	{
+		"diseaseCategoryID" : 63,
+		"diseaseName" : "动脉硬化"
+	},
+	{
+		"diseaseCategoryID" : 64,
+		"diseaseName" : "冻伤"
+	},
+	{
+		"diseaseCategoryID" : 65,
+		"diseaseName" : "痘病"
+	},
+	{
+		"diseaseCategoryID" : 66,
+		"diseaseName" : "多动症"
+	},
+	{
+		"diseaseCategoryID" : 67,
+		"diseaseName" : "多糖病"
+	},
+	{
+		"diseaseCategoryID" : 68,
+		"diseaseName" : "恶心"
+	},
+	{
+		"diseaseCategoryID" : 69,
+		"diseaseName" : "腭裂"
+	},
+	{
+		"diseaseCategoryID" : 70,
+		"diseaseName" : "耳部疾病"
+	},
+	{
+		"diseaseCategoryID" : 71,
+		"diseaseName" : "耳聋"
+	},
+	{
+		"diseaseCategoryID" : 72,
+		"diseaseName" : "二尖瓣疾病"
+	},
+	{
+		"diseaseCategoryID" : 73,
+		"diseaseName" : "发热"
+	},
+	{
+		"diseaseCategoryID" : 74,
+		"diseaseName" : "发育不良"
+	},
+	{
+		"diseaseCategoryID" : 75,
+		"diseaseName" : "发育疾病"
+	},
+	{
+		"diseaseCategoryID" : 76,
+		"diseaseName" : "房室传导"
+	},
+	{
+		"diseaseCategoryID" : 77,
+		"diseaseName" : "肥胖"
+	},
+	{
+		"diseaseCategoryID" : 78,
+		"diseaseName" : "腓骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 79,
+		"diseaseName" : "肺病"
+	},
+	{
+		"diseaseCategoryID" : 80,
+		"diseaseName" : "肺动脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 81,
+		"diseaseName" : "肺炎"
+	},
+	{
+		"diseaseCategoryID" : 82,
+		"diseaseName" : "分娩"
+	},
+	{
+		"diseaseCategoryID" : 83,
+		"diseaseName" : "蜂窝织炎"
+	},
+	{
+		"diseaseCategoryID" : 84,
+		"diseaseName" : "蜂窝组织炎"
+	},
+	{
+		"diseaseCategoryID" : 85,
+		"diseaseName" : "腐蚀伤"
+	},
+	{
+		"diseaseCategoryID" : 86,
+		"diseaseName" : "妇科疾病"
+	},
+	{
+		"diseaseCategoryID" : 87,
+		"diseaseName" : "附睾疾病"
+	},
+	{
+		"diseaseCategoryID" : 88,
+		"diseaseName" : "附睾炎"
+	},
+	{
+		"diseaseCategoryID" : 89,
+		"diseaseName" : "腹膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 90,
+		"diseaseName" : "腹膜炎"
+	},
+	{
+		"diseaseCategoryID" : 91,
+		"diseaseName" : "腹泻"
+	},
+	{
+		"diseaseCategoryID" : 92,
+		"diseaseName" : "肝部疾病"
+	},
+	{
+		"diseaseCategoryID" : 93,
+		"diseaseName" : "肝炎"
+	},
+	{
+		"diseaseCategoryID" : 94,
+		"diseaseName" : "感冒"
+	},
+	{
+		"diseaseCategoryID" : 95,
+		"diseaseName" : "感染"
+	},
+	{
+		"diseaseCategoryID" : 96,
+		"diseaseName" : "肛门疾病"
+	},
+	{
+		"diseaseCategoryID" : 97,
+		"diseaseName" : "肛周疾病"
+	},
+	{
+		"diseaseCategoryID" : 98,
+		"diseaseName" : "高血糖"
+	},
+	{
+		"diseaseCategoryID" : 99,
+		"diseaseName" : "高血压"
+	},
+	{
+		"diseaseCategoryID" : 100,
+		"diseaseName" : "高脂血症"
+	},
+	{
+		"diseaseCategoryID" : 101,
+		"diseaseName" : "睾丸疾病"
+	},
+	{
+		"diseaseCategoryID" : 102,
+		"diseaseName" : "宫颈疾病"
+	},
+	{
+		"diseaseCategoryID" : 103,
+		"diseaseName" : "宫颈炎"
+	},
+	{
+		"diseaseCategoryID" : 104,
+		"diseaseName" : "巩膜炎"
+	},
+	{
+		"diseaseCategoryID" : 105,
+		"diseaseName" : "佝偻病"
+	},
+	{
+		"diseaseCategoryID" : 106,
+		"diseaseName" : "骨刺"
+	},
+	{
+		"diseaseCategoryID" : 107,
+		"diseaseName" : "骨骺炎"
+	},
+	{
+		"diseaseCategoryID" : 108,
+		"diseaseName" : "骨坏死"
+	},
+	{
+		"diseaseCategoryID" : 109,
+		"diseaseName" : "骨活组织检查"
+	},
+	{
+		"diseaseCategoryID" : 110,
+		"diseaseName" : "骨膜炎"
+	},
+	{
+		"diseaseCategoryID" : 111,
+		"diseaseName" : "骨切开"
+	},
+	{
+		"diseaseCategoryID" : 112,
+		"diseaseName" : "骨软化"
+	},
+	{
+		"diseaseCategoryID" : 113,
+		"diseaseName" : "骨髓疾病"
+	},
+	{
+		"diseaseCategoryID" : 114,
+		"diseaseName" : "骨髓炎"
+	},
+	{
+		"diseaseCategoryID" : 115,
+		"diseaseName" : "骨炎"
+	},
+	{
+		"diseaseCategoryID" : 116,
+		"diseaseName" : "骨折"
+	},
+	{
+		"diseaseCategoryID" : 117,
+		"diseaseName" : "骨质疏松"
+	},
+	{
+		"diseaseCategoryID" : 118,
+		"diseaseName" : "骨质增生"
+	},
+	{
+		"diseaseCategoryID" : 119,
+		"diseaseName" : "骨纵形短缺缺陷"
+	},
+	{
+		"diseaseCategoryID" : 120,
+		"diseaseName" : "鼓膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 121,
+		"diseaseName" : "鼓膜炎"
+	},
+	{
+		"diseaseCategoryID" : 122,
+		"diseaseName" : "鼓室炎"
+	},
+	{
+		"diseaseCategoryID" : 123,
+		"diseaseName" : "关节疾病"
+	},
+	{
+		"diseaseCategoryID" : 124,
+		"diseaseName" : "关节炎"
+	},
+	{
+		"diseaseCategoryID" : 125,
+		"diseaseName" : "冠状动脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 126,
+		"diseaseName" : "龟头炎"
+	},
+	{
+		"diseaseCategoryID" : 127,
+		"diseaseName" : "颌窦炎"
+	},
+	{
+		"diseaseCategoryID" : 128,
+		"diseaseName" : "颌骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 129,
+		"diseaseName" : "颌下腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 130,
+		"diseaseName" : "黑(色素)瘤"
+	},
+	{
+		"diseaseCategoryID" : 131,
+		"diseaseName" : "黑色素瘤"
+	},
+	{
+		"diseaseCategoryID" : 132,
+		"diseaseName" : "虹膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 133,
+		"diseaseName" : "喉部疾病"
+	},
+	{
+		"diseaseCategoryID" : 134,
+		"diseaseName" : "滑膜炎"
+	},
+	{
+		"diseaseCategoryID" : 135,
+		"diseaseName" : "滑囊炎"
+	},
+	{
+		"diseaseCategoryID" : 136,
+		"diseaseName" : "踝部疾病"
+	},
+	{
+		"diseaseCategoryID" : 137,
+		"diseaseName" : "黄疸"
+	},
+	{
+		"diseaseCategoryID" : 138,
+		"diseaseName" : "蛔虫"
+	},
+	{
+		"diseaseCategoryID" : 139,
+		"diseaseName" : "昏迷"
+	},
+	{
+		"diseaseCategoryID" : 140,
+		"diseaseName" : "霍乱"
+	},
+	{
+		"diseaseCategoryID" : 141,
+		"diseaseName" : "肌断裂"
+	},
+	{
+		"diseaseCategoryID" : 142,
+		"diseaseName" : "肌腱疾病"
+	},
+	{
+		"diseaseCategoryID" : 143,
+		"diseaseName" : "肌挛缩"
+	},
+	{
+		"diseaseCategoryID" : 144,
+		"diseaseName" : "肌肉萎缩"
+	},
+	{
+		"diseaseCategoryID" : 145,
+		"diseaseName" : "肌无力"
+	},
+	{
+		"diseaseCategoryID" : 146,
+		"diseaseName" : "肌炎"
+	},
+	{
+		"diseaseCategoryID" : 147,
+		"diseaseName" : "肌张力障碍"
+	},
+	{
+		"diseaseCategoryID" : 148,
+		"diseaseName" : "畸形"
+	},
+	{
+		"diseaseCategoryID" : 149,
+		"diseaseName" : "疾病疗法"
+	},
+	{
+		"diseaseCategoryID" : 150,
+		"diseaseName" : "挤压伤"
+	},
+	{
+		"diseaseCategoryID" : 151,
+		"diseaseName" : "脊髓灰质炎"
+	},
+	{
+		"diseaseCategoryID" : 152,
+		"diseaseName" : "脊髓疾病"
+	},
+	{
+		"diseaseCategoryID" : 153,
+		"diseaseName" : "脊髓炎"
+	},
+	{
+		"diseaseCategoryID" : 154,
+		"diseaseName" : "脊柱疾病"
+	},
+	{
+		"diseaseCategoryID" : 155,
+		"diseaseName" : "脊柱炎"
+	},
+	{
+		"diseaseCategoryID" : 156,
+		"diseaseName" : "寄生虫病"
+	},
+	{
+		"diseaseCategoryID" : 157,
+		"diseaseName" : "甲沟炎"
+	},
+	{
+		"diseaseCategoryID" : 158,
+		"diseaseName" : "甲状旁腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 159,
+		"diseaseName" : "甲状腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 160,
+		"diseaseName" : "假肢安装"
+	},
+	{
+		"diseaseCategoryID" : 161,
+		"diseaseName" : "间质病"
+	},
+	{
+		"diseaseCategoryID" : 162,
+		"diseaseName" : "腱鞘囊肿"
+	},
+	{
+		"diseaseCategoryID" : 163,
+		"diseaseName" : "腱鞘炎"
+	},
+	{
+		"diseaseCategoryID" : 164,
+		"diseaseName" : "浆膜炎"
+	},
+	{
+		"diseaseCategoryID" : 165,
+		"diseaseName" : "焦虑障碍"
+	},
+	{
+		"diseaseCategoryID" : 166,
+		"diseaseName" : "角膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 167,
+		"diseaseName" : "角膜炎"
+	},
+	{
+		"diseaseCategoryID" : 168,
+		"diseaseName" : "脚气"
+	},
+	{
+		"diseaseCategoryID" : 169,
+		"diseaseName" : "疖病"
+	},
+	{
+		"diseaseCategoryID" : 170,
+		"diseaseName" : "结肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 171,
+		"diseaseName" : "结核"
+	},
+	{
+		"diseaseCategoryID" : 172,
+		"diseaseName" : "结节病"
+	},
+	{
+		"diseaseCategoryID" : 173,
+		"diseaseName" : "结膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 174,
+		"diseaseName" : "结膜炎"
+	},
+	{
+		"diseaseCategoryID" : 175,
+		"diseaseName" : "截瘫"
+	},
+	{
+		"diseaseCategoryID" : 176,
+		"diseaseName" : "精囊疾病"
+	},
+	{
+		"diseaseCategoryID" : 177,
+		"diseaseName" : "精神和行为障碍"
+	},
+	{
+		"diseaseCategoryID" : 178,
+		"diseaseName" : "颈动脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 179,
+		"diseaseName" : "痉挛"
+	},
+	{
+		"diseaseCategoryID" : 180,
+		"diseaseName" : "静脉梗阻"
+	},
+	{
+		"diseaseCategoryID" : 181,
+		"diseaseName" : "静脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 182,
+		"diseaseName" : "静脉瘤"
+	},
+	{
+		"diseaseCategoryID" : 183,
+		"diseaseName" : "静脉曲张"
+	},
+	{
+		"diseaseCategoryID" : 184,
+		"diseaseName" : "静脉栓塞"
+	},
+	{
+		"diseaseCategoryID" : 185,
+		"diseaseName" : "静脉炎"
+	},
+	{
+		"diseaseCategoryID" : 186,
+		"diseaseName" : "静脉阻塞"
+	},
+	{
+		"diseaseCategoryID" : 187,
+		"diseaseName" : "疽病"
+	},
+	{
+		"diseaseCategoryID" : 188,
+		"diseaseName" : "菌病"
+	},
+	{
+		"diseaseCategoryID" : 189,
+		"diseaseName" : "菌血病"
+	},
+	{
+		"diseaseCategoryID" : 190,
+		"diseaseName" : "开放性伤口"
+	},
+	{
+		"diseaseCategoryID" : 191,
+		"diseaseName" : "口部疾病"
+	},
+	{
+		"diseaseCategoryID" : 192,
+		"diseaseName" : "口腔炎"
+	},
+	{
+		"diseaseCategoryID" : 193,
+		"diseaseName" : "口炎"
+	},
+	{
+		"diseaseCategoryID" : 194,
+		"diseaseName" : "狂犬病"
+	},
+	{
+		"diseaseCategoryID" : 195,
+		"diseaseName" : "溃疡"
+	},
+	{
+		"diseaseCategoryID" : 196,
+		"diseaseName" : "阑尾炎"
+	},
+	{
+		"diseaseCategoryID" : 197,
+		"diseaseName" : "劳损"
+	},
+	{
+		"diseaseCategoryID" : 198,
+		"diseaseName" : "泪囊炎"
+	},
+	{
+		"diseaseCategoryID" : 199,
+		"diseaseName" : "泪腺炎"
+	},
+	{
+		"diseaseCategoryID" : 200,
+		"diseaseName" : "痢疾"
+	},
+	{
+		"diseaseCategoryID" : 201,
+		"diseaseName" : "裂伤"
+	},
+	{
+		"diseaseCategoryID" : 202,
+		"diseaseName" : "淋巴管疾病"
+	},
+	{
+		"diseaseCategoryID" : 203,
+		"diseaseName" : "淋巴管瘤"
+	},
+	{
+		"diseaseCategoryID" : 204,
+		"diseaseName" : "淋巴管炎"
+	},
+	{
+		"diseaseCategoryID" : 205,
+		"diseaseName" : "淋巴疾病"
+	},
+	{
+		"diseaseCategoryID" : 206,
+		"diseaseName" : "淋巴结病"
+	},
+	{
+		"diseaseCategoryID" : 207,
+		"diseaseName" : "淋巴结炎"
+	},
+	{
+		"diseaseCategoryID" : 208,
+		"diseaseName" : "淋巴瘤"
+	},
+	{
+		"diseaseCategoryID" : 209,
+		"diseaseName" : "淋病"
+	},
+	{
+		"diseaseCategoryID" : 210,
+		"diseaseName" : "流产"
+	},
+	{
+		"diseaseCategoryID" : 211,
+		"diseaseName" : "流感"
+	},
+	{
+		"diseaseCategoryID" : 212,
+		"diseaseName" : "瘘病"
+	},
+	{
+		"diseaseCategoryID" : 213,
+		"diseaseName" : "颅内疾病"
+	},
+	{
+		"diseaseCategoryID" : 214,
+		"diseaseName" : "颅内损伤"
+	},
+	{
+		"diseaseCategoryID" : 215,
+		"diseaseName" : "鲁氏菌病"
+	},
+	{
+		"diseaseCategoryID" : 216,
+		"diseaseName" : "螺旋体病"
+	},
+	{
+		"diseaseCategoryID" : 217,
+		"diseaseName" : "麻痹"
+	},
+	{
+		"diseaseCategoryID" : 218,
+		"diseaseName" : "麻风病"
+	},
+	{
+		"diseaseCategoryID" : 219,
+		"diseaseName" : "麻疹"
+	},
+	{
+		"diseaseCategoryID" : 220,
+		"diseaseName" : "脉管炎"
+	},
+	{
+		"diseaseCategoryID" : 221,
+		"diseaseName" : "脉络膜炎"
+	},
+	{
+		"diseaseCategoryID" : 222,
+		"diseaseName" : "慢性查加斯病"
+	},
+	{
+		"diseaseCategoryID" : 223,
+		"diseaseName" : "盲肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 224,
+		"diseaseName" : "毛囊炎"
+	},
+	{
+		"diseaseCategoryID" : 225,
+		"diseaseName" : "梅毒"
+	},
+	{
+		"diseaseCategoryID" : 226,
+		"diseaseName" : "霉菌病"
+	},
+	{
+		"diseaseCategoryID" : 227,
+		"diseaseName" : "霉菌性疾病"
+	},
+	{
+		"diseaseCategoryID" : 228,
+		"diseaseName" : "免疫性疾病"
+	},
+	{
+		"diseaseCategoryID" : 229,
+		"diseaseName" : "膜睫状体炎"
+	},
+	{
+		"diseaseCategoryID" : 230,
+		"diseaseName" : "男科疾病"
+	},
+	{
+		"diseaseCategoryID" : 231,
+		"diseaseName" : "囊肿"
+	},
+	{
+		"diseaseCategoryID" : 232,
+		"diseaseName" : "脑膜炎"
+	},
+	{
+		"diseaseCategoryID" : 233,
+		"diseaseName" : "脑血管病"
+	},
+	{
+		"diseaseCategoryID" : 234,
+		"diseaseName" : "脑炎"
+	},
+	{
+		"diseaseCategoryID" : 235,
+		"diseaseName" : "内分泌系统疾病"
+	},
+	{
+		"diseaseCategoryID" : 236,
+		"diseaseName" : "念珠菌病"
+	},
+	{
+		"diseaseCategoryID" : 237,
+		"diseaseName" : "尿道疾病"
+	},
+	{
+		"diseaseCategoryID" : 238,
+		"diseaseName" : "尿道炎"
+	},
+	{
+		"diseaseCategoryID" : 239,
+		"diseaseName" : "尿毒症"
+	},
+	{
+		"diseaseCategoryID" : 240,
+		"diseaseName" : "尿失禁"
+	},
+	{
+		"diseaseCategoryID" : 241,
+		"diseaseName" : "凝血疾病"
+	},
+	{
+		"diseaseCategoryID" : 242,
+		"diseaseName" : "脓疱"
+	},
+	{
+		"diseaseCategoryID" : 243,
+		"diseaseName" : "脓肿"
+	},
+	{
+		"diseaseCategoryID" : 244,
+		"diseaseName" : "疟疾"
+	},
+	{
+		"diseaseCategoryID" : 245,
+		"diseaseName" : "帕金森"
+	},
+	{
+		"diseaseCategoryID" : 246,
+		"diseaseName" : "膀胱疾病"
+	},
+	{
+		"diseaseCategoryID" : 247,
+		"diseaseName" : "膀胱炎"
+	},
+	{
+		"diseaseCategoryID" : 248,
+		"diseaseName" : "疱疹"
+	},
+	{
+		"diseaseCategoryID" : 249,
+		"diseaseName" : "盆腔炎"
+	},
+	{
+		"diseaseCategoryID" : 250,
+		"diseaseName" : "皮肤病"
+	},
+	{
+		"diseaseCategoryID" : 251,
+		"diseaseName" : "皮瘤"
+	},
+	{
+		"diseaseCategoryID" : 252,
+		"diseaseName" : "皮炎"
+	},
+	{
+		"diseaseCategoryID" : 253,
+		"diseaseName" : "脾病"
+	},
+	{
+		"diseaseCategoryID" : 254,
+		"diseaseName" : "偏瘫"
+	},
+	{
+		"diseaseCategoryID" : 255,
+		"diseaseName" : "贫血"
+	},
+	{
+		"diseaseCategoryID" : 256,
+		"diseaseName" : "品行障碍"
+	},
+	{
+		"diseaseCategoryID" : 257,
+		"diseaseName" : "破伤风"
+	},
+	{
+		"diseaseCategoryID" : 258,
+		"diseaseName" : "葡萄胎"
+	},
+	{
+		"diseaseCategoryID" : 259,
+		"diseaseName" : "其他肠类疾病"
+	},
+	{
+		"diseaseCategoryID" : 260,
+		"diseaseName" : "其他动脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 261,
+		"diseaseName" : "其他瘤"
+	},
+	{
+		"diseaseCategoryID" : 262,
+		"diseaseName" : "其他胰腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 263,
+		"diseaseName" : "其他章疾病"
+	},
+	{
+		"diseaseCategoryID" : 264,
+		"diseaseName" : "其它腹部疾病"
+	},
+	{
+		"diseaseCategoryID" : 265,
+		"diseaseName" : "其它骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 266,
+		"diseaseName" : "其它呼吸疾病"
+	},
+	{
+		"diseaseCategoryID" : 267,
+		"diseaseName" : "其它肌部疾病"
+	},
+	{
+		"diseaseCategoryID" : 268,
+		"diseaseName" : "其它疾病"
+	},
+	{
+		"diseaseCategoryID" : 269,
+		"diseaseName" : "其它泌尿系统疾病"
+	},
+	{
+		"diseaseCategoryID" : 270,
+		"diseaseName" : "其它气管病"
+	},
+	{
+		"diseaseCategoryID" : 271,
+		"diseaseName" : "其它热病"
+	},
+	{
+		"diseaseCategoryID" : 272,
+		"diseaseName" : "其它舌部疾病"
+	},
+	{
+		"diseaseCategoryID" : 273,
+		"diseaseName" : "其它疼痛"
+	},
+	{
+		"diseaseCategoryID" : 274,
+		"diseaseName" : "其它胸部疾病"
+	},
+	{
+		"diseaseCategoryID" : 275,
+		"diseaseName" : "其它血液疾病"
+	},
+	{
+		"diseaseCategoryID" : 276,
+		"diseaseName" : "其它咽部疾病"
+	},
+	{
+		"diseaseCategoryID" : 277,
+		"diseaseName" : "其它炎症"
+	},
+	{
+		"diseaseCategoryID" : 278,
+		"diseaseName" : "其它暂时无法归类的"
+	},
+	{
+		"diseaseCategoryID" : 279,
+		"diseaseName" : "其它支气管病"
+	},
+	{
+		"diseaseCategoryID" : 280,
+		"diseaseName" : "其它足部疾病"
+	},
+	{
+		"diseaseCategoryID" : 281,
+		"diseaseName" : "脐带疾病"
+	},
+	{
+		"diseaseCategoryID" : 282,
+		"diseaseName" : "气道疾病"
+	},
+	{
+		"diseaseCategoryID" : 283,
+		"diseaseName" : "气管炎"
+	},
+	{
+		"diseaseCategoryID" : 284,
+		"diseaseName" : "气胸"
+	},
+	{
+		"diseaseCategoryID" : 285,
+		"diseaseName" : "前列腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 286,
+		"diseaseName" : "前列腺炎"
+	},
+	{
+		"diseaseCategoryID" : 287,
+		"diseaseName" : "浅表损伤"
+	},
+	{
+		"diseaseCategoryID" : 288,
+		"diseaseName" : "羟化酶缺陷"
+	},
+	{
+		"diseaseCategoryID" : 289,
+		"diseaseName" : "情感障碍"
+	},
+	{
+		"diseaseCategoryID" : 290,
+		"diseaseName" : "曲霉病"
+	},
+	{
+		"diseaseCategoryID" : 291,
+		"diseaseName" : "染色体疾病"
+	},
+	{
+		"diseaseCategoryID" : 292,
+		"diseaseName" : "人格障碍"
+	},
+	{
+		"diseaseCategoryID" : 293,
+		"diseaseName" : "妊娠引起的疾病"
+	},
+	{
+		"diseaseCategoryID" : 294,
+		"diseaseName" : "肉瘤 "
+	},
+	{
+		"diseaseCategoryID" : 295,
+		"diseaseName" : "肉芽肿"
+	},
+	{
+		"diseaseCategoryID" : 296,
+		"diseaseName" : "蠕虫病"
+	},
+	{
+		"diseaseCategoryID" : 297,
+		"diseaseName" : "乳突炎"
+	},
+	{
+		"diseaseCategoryID" : 298,
+		"diseaseName" : "乳腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 299,
+		"diseaseName" : "乳腺炎"
+	},
+	{
+		"diseaseCategoryID" : 300,
+		"diseaseName" : "软骨病"
+	},
+	{
+		"diseaseCategoryID" : 301,
+		"diseaseName" : "软骨瘤"
+	},
+	{
+		"diseaseCategoryID" : 302,
+		"diseaseName" : "腮腺炎"
+	},
+	{
+		"diseaseCategoryID" : 303,
+		"diseaseName" : "三尖瓣疾病"
+	},
+	{
+		"diseaseCategoryID" : 304,
+		"diseaseName" : "晒伤"
+	},
+	{
+		"diseaseCategoryID" : 305,
+		"diseaseName" : "疝病"
+	},
+	{
+		"diseaseCategoryID" : 306,
+		"diseaseName" : "伤寒"
+	},
+	{
+		"diseaseCategoryID" : 307,
+		"diseaseName" : "上肢疾病"
+	},
+	{
+		"diseaseCategoryID" : 308,
+		"diseaseName" : "上肢其它疾病"
+	},
+	{
+		"diseaseCategoryID" : 309,
+		"diseaseName" : "烧伤"
+	},
+	{
+		"diseaseCategoryID" : 310,
+		"diseaseName" : "舌炎"
+	},
+	{
+		"diseaseCategoryID" : 311,
+		"diseaseName" : "蛇咬伤"
+	},
+	{
+		"diseaseCategoryID" : 312,
+		"diseaseName" : "身材矮小"
+	},
+	{
+		"diseaseCategoryID" : 313,
+		"diseaseName" : "神经系统疾病"
+	},
+	{
+		"diseaseCategoryID" : 314,
+		"diseaseName" : "肾病"
+	},
+	{
+		"diseaseCategoryID" : 315,
+		"diseaseName" : "肾炎"
+	},
+	{
+		"diseaseCategoryID" : 316,
+		"diseaseName" : "声带疾病"
+	},
+	{
+		"diseaseCategoryID" : 317,
+		"diseaseName" : "失语"
+	},
+	{
+		"diseaseCategoryID" : 318,
+		"diseaseName" : "虱病"
+	},
+	{
+		"diseaseCategoryID" : 319,
+		"diseaseName" : "湿疣"
+	},
+	{
+		"diseaseCategoryID" : 320,
+		"diseaseName" : "湿疹"
+	},
+	{
+		"diseaseCategoryID" : 321,
+		"diseaseName" : "十二指肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 322,
+		"diseaseName" : "食道疾病"
+	},
+	{
+		"diseaseCategoryID" : 323,
+		"diseaseName" : "食管疾病"
+	},
+	{
+		"diseaseCategoryID" : 324,
+		"diseaseName" : "食物中毒"
+	},
+	{
+		"diseaseCategoryID" : 325,
+		"diseaseName" : "视力疾病"
+	},
+	{
+		"diseaseCategoryID" : 326,
+		"diseaseName" : "视网膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 327,
+		"diseaseName" : "视网膜炎"
+	},
+	{
+		"diseaseCategoryID" : 328,
+		"diseaseName" : "手部疾病"
+	},
+	{
+		"diseaseCategoryID" : 329,
+		"diseaseName" : "手部其它疾病"
+	},
+	{
+		"diseaseCategoryID" : 330,
+		"diseaseName" : "手术"
+	},
+	{
+		"diseaseCategoryID" : 331,
+		"diseaseName" : "输精管疾病"
+	},
+	{
+		"diseaseCategoryID" : 332,
+		"diseaseName" : "输卵管疾病"
+	},
+	{
+		"diseaseCategoryID" : 333,
+		"diseaseName" : "输尿管疾病"
+	},
+	{
+		"diseaseCategoryID" : 334,
+		"diseaseName" : "输尿管炎"
+	},
+	{
+		"diseaseCategoryID" : 335,
+		"diseaseName" : "鼠疫"
+	},
+	{
+		"diseaseCategoryID" : 336,
+		"diseaseName" : "水痘"
+	},
+	{
+		"diseaseCategoryID" : 337,
+		"diseaseName" : "水肿"
+	},
+	{
+		"diseaseCategoryID" : 338,
+		"diseaseName" : "睡眠疾病"
+	},
+	{
+		"diseaseCategoryID" : 339,
+		"diseaseName" : "四肢其它疾病"
+	},
+	{
+		"diseaseCategoryID" : 340,
+		"diseaseName" : "粟疹"
+	},
+	{
+		"diseaseCategoryID" : 341,
+		"diseaseName" : "酸尿证"
+	},
+	{
+		"diseaseCategoryID" : 342,
+		"diseaseName" : "酸血症"
+	},
+	{
+		"diseaseCategoryID" : 343,
+		"diseaseName" : "损伤"
+	},
+	{
+		"diseaseCategoryID" : 344,
+		"diseaseName" : "锁骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 345,
+		"diseaseName" : "瘫痪"
+	},
+	{
+		"diseaseCategoryID" : 346,
+		"diseaseName" : "炭疽"
+	},
+	{
+		"diseaseCategoryID" : 347,
+		"diseaseName" : "唐氏综合征"
+	},
+	{
+		"diseaseCategoryID" : 348,
+		"diseaseName" : "糖尿病"
+	},
+	{
+		"diseaseCategoryID" : 349,
+		"diseaseName" : "天花"
+	},
+	{
+		"diseaseCategoryID" : 350,
+		"diseaseName" : "听道疾病"
+	},
+	{
+		"diseaseCategoryID" : 351,
+		"diseaseName" : "听骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 352,
+		"diseaseName" : "听觉丧失"
+	},
+	{
+		"diseaseCategoryID" : 353,
+		"diseaseName" : "听力疾病"
+	},
+	{
+		"diseaseCategoryID" : 354,
+		"diseaseName" : "瞳孔疾病"
+	},
+	{
+		"diseaseCategoryID" : 355,
+		"diseaseName" : "痛风"
+	},
+	{
+		"diseaseCategoryID" : 356,
+		"diseaseName" : "痛经"
+	},
+	{
+		"diseaseCategoryID" : 357,
+		"diseaseName" : "头部疾病"
+	},
+	{
+		"diseaseCategoryID" : 358,
+		"diseaseName" : "头痛"
+	},
+	{
+		"diseaseCategoryID" : 359,
+		"diseaseName" : "土拉菌病"
+	},
+	{
+		"diseaseCategoryID" : 360,
+		"diseaseName" : "腿部疾病"
+	},
+	{
+		"diseaseCategoryID" : 361,
+		"diseaseName" : "吞咽困难"
+	},
+	{
+		"diseaseCategoryID" : 362,
+		"diseaseName" : "脱出"
+	},
+	{
+		"diseaseCategoryID" : 363,
+		"diseaseName" : "脱发"
+	},
+	{
+		"diseaseCategoryID" : 364,
+		"diseaseName" : "脱髓鞘"
+	},
+	{
+		"diseaseCategoryID" : 365,
+		"diseaseName" : "脱位"
+	},
+	{
+		"diseaseCategoryID" : 366,
+		"diseaseName" : "外翻"
+	},
+	{
+		"diseaseCategoryID" : 367,
+		"diseaseName" : "外阴疾病"
+	},
+	{
+		"diseaseCategoryID" : 368,
+		"diseaseName" : "外阴炎"
+	},
+	{
+		"diseaseCategoryID" : 369,
+		"diseaseName" : "维生素疾病"
+	},
+	{
+		"diseaseCategoryID" : 370,
+		"diseaseName" : "胃部疾病"
+	},
+	{
+		"diseaseCategoryID" : 371,
+		"diseaseName" : "胃炎"
+	},
+	{
+		"diseaseCategoryID" : 372,
+		"diseaseName" : "吸虫病"
+	},
+	{
+		"diseaseCategoryID" : 373,
+		"diseaseName" : "吸收障碍"
+	},
+	{
+		"diseaseCategoryID" : 374,
+		"diseaseName" : "息肉"
+	},
+	{
+		"diseaseCategoryID" : 375,
+		"diseaseName" : "膝部疾病"
+	},
+	{
+		"diseaseCategoryID" : 376,
+		"diseaseName" : "细胞疾病"
+	},
+	{
+		"diseaseCategoryID" : 377,
+		"diseaseName" : "细胞瘤"
+	},
+	{
+		"diseaseCategoryID" : 378,
+		"diseaseName" : "细胞再生障碍"
+	},
+	{
+		"diseaseCategoryID" : 379,
+		"diseaseName" : "细胞增多症"
+	},
+	{
+		"diseaseCategoryID" : 380,
+		"diseaseName" : "细菌性疾病"
+	},
+	{
+		"diseaseCategoryID" : 381,
+		"diseaseName" : "下疳"
+	},
+	{
+		"diseaseCategoryID" : 382,
+		"diseaseName" : "下肢其它疾病"
+	},
+	{
+		"diseaseCategoryID" : 383,
+		"diseaseName" : "先天性疾病"
+	},
+	{
+		"diseaseCategoryID" : 384,
+		"diseaseName" : "纤维瘤"
+	},
+	{
+		"diseaseCategoryID" : 385,
+		"diseaseName" : "腺体疾病"
+	},
+	{
+		"diseaseCategoryID" : 386,
+		"diseaseName" : "腺样体疾病"
+	},
+	{
+		"diseaseCategoryID" : 387,
+		"diseaseName" : "消化道疾病"
+	},
+	{
+		"diseaseCategoryID" : 388,
+		"diseaseName" : "消化疾病"
+	},
+	{
+		"diseaseCategoryID" : 389,
+		"diseaseName" : "小肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 390,
+		"diseaseName" : "哮喘"
+	},
+	{
+		"diseaseCategoryID" : 391,
+		"diseaseName" : "斜视"
+	},
+	{
+		"diseaseCategoryID" : 392,
+		"diseaseName" : "心瓣疾病"
+	},
+	{
+		"diseaseCategoryID" : 393,
+		"diseaseName" : "心包疾病"
+	},
+	{
+		"diseaseCategoryID" : 394,
+		"diseaseName" : "心包炎"
+	},
+	{
+		"diseaseCategoryID" : 395,
+		"diseaseName" : "心动过缓"
+	},
+	{
+		"diseaseCategoryID" : 396,
+		"diseaseName" : "心动过速"
+	},
+	{
+		"diseaseCategoryID" : 397,
+		"diseaseName" : "心肌病"
+	},
+	{
+		"diseaseCategoryID" : 398,
+		"diseaseName" : "心绞痛"
+	},
+	{
+		"diseaseCategoryID" : 399,
+		"diseaseName" : "心境障碍"
+	},
+	{
+		"diseaseCategoryID" : 400,
+		"diseaseName" : "心律疾病"
+	},
+	{
+		"diseaseCategoryID" : 401,
+		"diseaseName" : "心内膜炎"
+	},
+	{
+		"diseaseCategoryID" : 402,
+		"diseaseName" : "心血管病"
+	},
+	{
+		"diseaseCategoryID" : 403,
+		"diseaseName" : "心脏病"
+	},
+	{
+		"diseaseCategoryID" : 404,
+		"diseaseName" : "心脏疾病"
+	},
+	{
+		"diseaseCategoryID" : 405,
+		"diseaseName" : "新生儿疾病"
+	},
+	{
+		"diseaseCategoryID" : 406,
+		"diseaseName" : "胸骨疾病"
+	},
+	{
+		"diseaseCategoryID" : 407,
+		"diseaseName" : "胸膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 408,
+		"diseaseName" : "胸膜炎"
+	},
+	{
+		"diseaseCategoryID" : 409,
+		"diseaseName" : "胸腺疾病"
+	},
+	{
+		"diseaseCategoryID" : 410,
+		"diseaseName" : "休克"
+	},
+	{
+		"diseaseCategoryID" : 411,
+		"diseaseName" : "徐动症"
+	},
+	{
+		"diseaseCategoryID" : 412,
+		"diseaseName" : "眩晕"
+	},
+	{
+		"diseaseCategoryID" : 413,
+		"diseaseName" : "血管疾病"
+	},
+	{
+		"diseaseCategoryID" : 414,
+		"diseaseName" : "血管瘤"
+	},
+	{
+		"diseaseCategoryID" : 415,
+		"diseaseName" : "血管炎"
+	},
+	{
+		"diseaseCategoryID" : 416,
+		"diseaseName" : "血红蛋白病"
+	},
+	{
+		"diseaseCategoryID" : 417,
+		"diseaseName" : "血红蛋白尿"
+	},
+	{
+		"diseaseCategoryID" : 418,
+		"diseaseName" : "血尿"
+	},
+	{
+		"diseaseCategoryID" : 419,
+		"diseaseName" : "血栓"
+	},
+	{
+		"diseaseCategoryID" : 420,
+		"diseaseName" : "血小板疾病"
+	},
+	{
+		"diseaseCategoryID" : 421,
+		"diseaseName" : "血友病"
+	},
+	{
+		"diseaseCategoryID" : 422,
+		"diseaseName" : "血肿"
+	},
+	{
+		"diseaseCategoryID" : 423,
+		"diseaseName" : "荨麻疹"
+	},
+	{
+		"diseaseCategoryID" : 424,
+		"diseaseName" : "循环系统疾病"
+	},
+	{
+		"diseaseCategoryID" : 425,
+		"diseaseName" : "牙齿疾病"
+	},
+	{
+		"diseaseCategoryID" : 426,
+		"diseaseName" : "芽生菌病"
+	},
+	{
+		"diseaseCategoryID" : 427,
+		"diseaseName" : "雅司病"
+	},
+	{
+		"diseaseCategoryID" : 428,
+		"diseaseName" : "咽峡炎"
+	},
+	{
+		"diseaseCategoryID" : 429,
+		"diseaseName" : "咽炎"
+	},
+	{
+		"diseaseCategoryID" : 430,
+		"diseaseName" : "眼部疾病"
+	},
+	{
+		"diseaseCategoryID" : 431,
+		"diseaseName" : "咬伤"
+	},
+	{
+		"diseaseCategoryID" : 432,
+		"diseaseName" : "药物反应"
+	},
+	{
+		"diseaseCategoryID" : 433,
+		"diseaseName" : "药物引起的疾病"
+	},
+	{
+		"diseaseCategoryID" : 434,
+		"diseaseName" : "依恋障碍"
+	},
+	{
+		"diseaseCategoryID" : 435,
+		"diseaseName" : "胰部疾病"
+	},
+	{
+		"diseaseCategoryID" : 436,
+		"diseaseName" : "胰岛素疾病"
+	},
+	{
+		"diseaseCategoryID" : 437,
+		"diseaseName" : "胰腺炎"
+	},
+	{
+		"diseaseCategoryID" : 438,
+		"diseaseName" : "移植"
+	},
+	{
+		"diseaseCategoryID" : 439,
+		"diseaseName" : "遗传疾病"
+	},
+	{
+		"diseaseCategoryID" : 440,
+		"diseaseName" : "遗尿"
+	},
+	{
+		"diseaseCategoryID" : 441,
+		"diseaseName" : "遗尿症"
+	},
+	{
+		"diseaseCategoryID" : 442,
+		"diseaseName" : "抑郁"
+	},
+	{
+		"diseaseCategoryID" : 443,
+		"diseaseName" : "疫苗引起的疾病"
+	},
+	{
+		"diseaseCategoryID" : 444,
+		"diseaseName" : "癔病"
+	},
+	{
+		"diseaseCategoryID" : 445,
+		"diseaseName" : "阴囊疾病"
+	},
+	{
+		"diseaseCategoryID" : 446,
+		"diseaseName" : "引产"
+	},
+	{
+		"diseaseCategoryID" : 447,
+		"diseaseName" : "引流"
+	},
+	{
+		"diseaseCategoryID" : 448,
+		"diseaseName" : "营养不良"
+	},
+	{
+		"diseaseCategoryID" : 449,
+		"diseaseName" : "营养过度"
+	},
+	{
+		"diseaseCategoryID" : 450,
+		"diseaseName" : "蝇蛆病"
+	},
+	{
+		"diseaseCategoryID" : 451,
+		"diseaseName" : "痈病"
+	},
+	{
+		"diseaseCategoryID" : 452,
+		"diseaseName" : "幽门疾病"
+	},
+	{
+		"diseaseCategoryID" : 453,
+		"diseaseName" : "疣病"
+	},
+	{
+		"diseaseCategoryID" : 454,
+		"diseaseName" : "幼儿急疹"
+	},
+	{
+		"diseaseCategoryID" : 455,
+		"diseaseName" : "原虫性疾病"
+	},
+	{
+		"diseaseCategoryID" : 456,
+		"diseaseName" : "晕动病"
+	},
+	{
+		"diseaseCategoryID" : 457,
+		"diseaseName" : "晕厥"
+	},
+	{
+		"diseaseCategoryID" : 458,
+		"diseaseName" : "孕产妇医疗"
+	},
+	{
+		"diseaseCategoryID" : 459,
+		"diseaseName" : "早熟"
+	},
+	{
+		"diseaseCategoryID" : 460,
+		"diseaseName" : "造影术"
+	},
+	{
+		"diseaseCategoryID" : 461,
+		"diseaseName" : "粘膜斑"
+	},
+	{
+		"diseaseCategoryID" : 462,
+		"diseaseName" : "粘液囊炎"
+	},
+	{
+		"diseaseCategoryID" : 463,
+		"diseaseName" : "照相术"
+	},
+	{
+		"diseaseCategoryID" : 464,
+		"diseaseName" : "真菌性疾病"
+	},
+	{
+		"diseaseCategoryID" : 465,
+		"diseaseName" : "支气管炎"
+	},
+	{
+		"diseaseCategoryID" : 466,
+		"diseaseName" : "肢体疾病"
+	},
+	{
+		"diseaseCategoryID" : 467,
+		"diseaseName" : "脂肪瘤"
+	},
+	{
+		"diseaseCategoryID" : 468,
+		"diseaseName" : "直肠疾病"
+	},
+	{
+		"diseaseCategoryID" : 469,
+		"diseaseName" : "指"
+	},
+	{
+		"diseaseCategoryID" : 470,
+		"diseaseName" : "痣"
+	},
+	{
+		"diseaseCategoryID" : 471,
+		"diseaseName" : "中毒"
+	},
+	{
+		"diseaseCategoryID" : 472,
+		"diseaseName" : "中医疾病"
+	},
+	{
+		"diseaseCategoryID" : 473,
+		"diseaseName" : "肿瘤"
+	},
+	{
+		"diseaseCategoryID" : 474,
+		"diseaseName" : "肿胀"
+	},
+	{
+		"diseaseCategoryID" : 475,
+		"diseaseName" : "蛛网膜疾病"
+	},
+	{
+		"diseaseCategoryID" : 476,
+		"diseaseName" : "蛛网膜炎"
+	},
+	{
+		"diseaseCategoryID" : 477,
+		"diseaseName" : "主动脉疾病"
+	},
+	{
+		"diseaseCategoryID" : 478,
+		"diseaseName" : "注射"
+	},
+	{
+		"diseaseCategoryID" : 479,
+		"diseaseName" : "椎管疾病"
+	},
+	{
+		"diseaseCategoryID" : 480,
+		"diseaseName" : "椎管狭窄"
+	},
+	{
+		"diseaseCategoryID" : 481,
+		"diseaseName" : "紫癜"
+	},
+	{
+		"diseaseCategoryID" : 482,
+		"diseaseName" : "自杀"
+	}
+]

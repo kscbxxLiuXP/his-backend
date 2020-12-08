@@ -1,0 +1,281 @@
+[
+	{
+		"invoiceID" : 56,
+		"invoiceNumber" : 800801,
+		"invoiceValue" : 51.00,
+		"invoiceState" : "2",
+		"chargeTime" : "2019-03-25 10:09:28",
+		"chargeUserID" : 9,
+		"registerID" : 26
+	},
+	{
+		"invoiceID" : 132,
+		"invoiceNumber" : 800802,
+		"invoiceValue" : 48.65,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 11:26:23",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 133,
+		"invoiceNumber" : 800803,
+		"invoiceValue" : -8.65,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 11:27:48",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 134,
+		"invoiceNumber" : 800804,
+		"invoiceValue" : 48.65,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 11:38:23",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 135,
+		"invoiceNumber" : 800805,
+		"invoiceValue" : -48.65,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 11:39:40",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 136,
+		"invoiceNumber" : 800806,
+		"invoiceValue" : 77.90,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 11:40:19",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 137,
+		"invoiceNumber" : 800807,
+		"invoiceValue" : -67.90,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 11:41:37",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 138,
+		"invoiceNumber" : 800808,
+		"invoiceValue" : -10.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 11:42:42",
+		"chargeUserID" : 9,
+		"registerID" : 36
+	},
+	{
+		"invoiceID" : 139,
+		"invoiceNumber" : 800809,
+		"invoiceValue" : 8.00,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 13:25:23",
+		"chargeUserID" : 9,
+		"registerID" : 37
+	},
+	{
+		"invoiceID" : 142,
+		"invoiceNumber" : 800810,
+		"invoiceValue" : 129.94,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 13:33:54",
+		"chargeUserID" : 9,
+		"registerID" : 37
+	},
+	{
+		"invoiceID" : 143,
+		"invoiceNumber" : 800811,
+		"invoiceValue" : -129.94,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 13:38:56",
+		"chargeUserID" : 9,
+		"registerID" : 37
+	},
+	{
+		"invoiceID" : 144,
+		"invoiceNumber" : 800812,
+		"invoiceValue" : 247.37,
+		"invoiceState" : "3",
+		"chargeTime" : "2019-04-01 13:39:37",
+		"chargeUserID" : 9,
+		"registerID" : 37
+	},
+	{
+		"invoiceID" : 145,
+		"invoiceNumber" : 800813,
+		"invoiceValue" : -155.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-04-01 13:39:57",
+		"chargeUserID" : 9,
+		"registerID" : 37
+	},
+	{
+		"invoiceID" : 146,
+		"invoiceNumber" : 800814,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 11:44:13",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 147,
+		"invoiceNumber" : 800815,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 11:45:33",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 148,
+		"invoiceNumber" : 800816,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 11:52:32",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 149,
+		"invoiceNumber" : 800817,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 11:55:24",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 150,
+		"invoiceNumber" : 800818,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:01:39",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 151,
+		"invoiceNumber" : 800819,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:02:17",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 152,
+		"invoiceNumber" : 800820,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:03:04",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 153,
+		"invoiceNumber" : 800821,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:03:34",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 154,
+		"invoiceNumber" : 800822,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:04:44",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 155,
+		"invoiceNumber" : 800823,
+		"invoiceValue" : 27.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 12:05:30",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 156,
+		"invoiceNumber" : 800824,
+		"invoiceValue" : 27.00,
+		"invoiceState" : "1",
+		"chargeTime" : "2019-06-25 14:21:33",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 157,
+		"invoiceNumber" : 800825,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-06-25 14:22:52",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 158,
+		"invoiceNumber" : 800826,
+		"invoiceValue" : 0.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-06-25 14:25:11",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 159,
+		"invoiceNumber" : 800827,
+		"invoiceValue" : -27.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-06-25 14:28:50",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 160,
+		"invoiceNumber" : 800828,
+		"invoiceValue" : -27.00,
+		"invoiceState" : "7",
+		"chargeTime" : "2019-06-25 14:29:06",
+		"chargeUserID" : 9,
+		"registerID" : 40
+	},
+	{
+		"invoiceID" : 161,
+		"invoiceNumber" : 800829,
+		"invoiceValue" : 76.55,
+		"invoiceState" : "1",
+		"chargeTime" : "2020-07-06 21:44:48",
+		"chargeUserID" : 9,
+		"registerID" : 209
+	},
+	{
+		"invoiceID" : 162,
+		"invoiceNumber" : 800830,
+		"invoiceValue" : -76.55,
+		"invoiceState" : "1",
+		"chargeTime" : "2020-07-06 21:47:04",
+		"chargeUserID" : 9,
+		"registerID" : 209
+	},
+	{
+		"invoiceID" : 163,
+		"invoiceNumber" : 800831,
+		"invoiceValue" : 76.55,
+		"invoiceState" : "1",
+		"chargeTime" : "2020-07-06 21:49:09",
+		"chargeUserID" : 9,
+		"registerID" : 205
+	}
+]

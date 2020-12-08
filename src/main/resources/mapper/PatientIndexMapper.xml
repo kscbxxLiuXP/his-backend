@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.PatientIndexDao">
+
+    <!--    public PatientIndex getOne();-->
+
+    <!--    public void addOne(PatientIndex patientIndex);-->
+
+    <!--    public void updateOne(int patientIndexID,PatientIndex patientIndex);-->
+    <!--    -->
+    <select id="getOneByPatientIndexID" resultType="com.liuxp.his.PO.PatientIndex">
+        select * from patientIndex where patientIndexID = #{patientIndexID}
+    </select>
+    <select id="getOneByRegisterID" resultType="com.liuxp.his.PO.PatientIndex">
+        select * from patientIndex where registerID = #{registerID}
+    </select>
+
+
+
+    <insert id="addOne">
+        insert into
+        patientIndex
+        (patientID,registerID,state)
+        values
+        (#{patientID},#{registerID},1)
+    </insert>
+
+    <update id="updateOne">
+        UPDATE patientindex
+				SET chiefComplaint = #{chiefComplaint},
+				presentMedicalHistory = #{presentMedicalHistory},
+				presentMedicalTreatment = #{presentMedicalTreatment},
+				pastMedicalHistory = #{pastMedicalHistory},
+				allergicHistory = #{allergicHistory},
+				bodyCheck = #{bodyCheck},
+				checkRec = #{checkRec},
+				notice = #{notice},
+				state = #{state}
+				WHERE
+					patientindexID = #{patientIndexID};#填写病历记录
+    </update>
+    <delete id="deleteOne">
+        delete from patientIndex
+        where registerID =#{registerID}
+    </delete>
+    <update id="updateState">
+        UPDATE patientindex
+				SET
+				state = #{state}
+				WHERE
+					registerID = #{registerID};#填写病历记录
+    </update>
+
+</mapper>

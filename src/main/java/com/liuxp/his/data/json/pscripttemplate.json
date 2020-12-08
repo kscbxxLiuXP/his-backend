@@ -1,0 +1,51 @@
+[
+	{
+		"pscriptTemplateID" : 2,
+		"pscriptTemplateName" : "念珠菌性皮炎",
+		"userID" : 1,
+		"createTime" : "2019-03-21 13:25:45",
+		"useRange" : 1
+	},
+	{
+		"pscriptTemplateID" : 3,
+		"pscriptTemplateName" : "急性黄疸性丁型肝炎",
+		"userID" : 1,
+		"createTime" : "2019-03-21 13:25:59",
+		"useRange" : 2
+	},
+	{
+		"pscriptTemplateID" : 4,
+		"pscriptTemplateName" : "病毒性胃肠炎",
+		"userID" : 1,
+		"createTime" : "2019-03-21 13:26:25",
+		"useRange" : 3
+	},
+	{
+		"pscriptTemplateID" : 5,
+		"pscriptTemplateName" : "流行性腮腺炎 NOS",
+		"userID" : 1,
+		"createTime" : "2019-03-21 13:26:33",
+		"useRange" : 1
+	},
+	{
+		"pscriptTemplateID" : 7,
+		"pscriptTemplateName" : "春季常发性感冒",
+		"userID" : 1,
+		"createTime" : "2019-03-22 16:34:08",
+		"useRange" : 3
+	},
+	{
+		"pscriptTemplateID" : 8,
+		"pscriptTemplateName" : "季节性常发哮喘",
+		"userID" : 1,
+		"createTime" : "2019-03-29 14:50:13",
+		"useRange" : 2
+	},
+	{
+		"pscriptTemplateID" : 9,
+		"pscriptTemplateName" : "支气管哮喘",
+		"userID" : 1,
+		"createTime" : "2019-04-01 13:43:44",
+		"useRange" : 2
+	}
+]

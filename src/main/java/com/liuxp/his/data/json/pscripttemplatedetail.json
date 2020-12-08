@@ -1,0 +1,114 @@
+[
+	{
+		"pscriptTemplateDetailID" : 2,
+		"pscriptTemplateID" : 2,
+		"drugID" : 23,
+		"useage" : "静脉注射",
+		"dosage" : "100ml",
+		"frequency" : "一日一次"
+	},
+	{
+		"pscriptTemplateDetailID" : 3,
+		"pscriptTemplateID" : 2,
+		"drugID" : 30,
+		"useage" : "静脉注射",
+		"dosage" : "200ml",
+		"frequency" : "一日一次"
+	},
+	{
+		"pscriptTemplateDetailID" : 4,
+		"pscriptTemplateID" : 5,
+		"drugID" : 86,
+		"useage" : null,
+		"dosage" : null,
+		"frequency" : null
+	},
+	{
+		"pscriptTemplateDetailID" : 6,
+		"pscriptTemplateID" : 3,
+		"drugID" : 5,
+		"useage" : "11",
+		"dosage" : "11",
+		"frequency" : "11"
+	},
+	{
+		"pscriptTemplateDetailID" : 7,
+		"pscriptTemplateID" : 3,
+		"drugID" : 57,
+		"useage" : "22",
+		"dosage" : "22",
+		"frequency" : "22"
+	},
+	{
+		"pscriptTemplateDetailID" : 8,
+		"pscriptTemplateID" : 7,
+		"drugID" : 9,
+		"useage" : "1",
+		"dosage" : "1",
+		"frequency" : "1"
+	},
+	{
+		"pscriptTemplateDetailID" : 9,
+		"pscriptTemplateID" : 4,
+		"drugID" : 36,
+		"useage" : "1",
+		"dosage" : "1",
+		"frequency" : "1"
+	},
+	{
+		"pscriptTemplateDetailID" : 10,
+		"pscriptTemplateID" : 4,
+		"drugID" : 39,
+		"useage" : "1",
+		"dosage" : "1",
+		"frequency" : "1"
+	},
+	{
+		"pscriptTemplateDetailID" : 11,
+		"pscriptTemplateID" : 4,
+		"drugID" : 2,
+		"useage" : null,
+		"dosage" : null,
+		"frequency" : null
+	},
+	{
+		"pscriptTemplateDetailID" : 12,
+		"pscriptTemplateID" : 8,
+		"drugID" : 9,
+		"useage" : "口服",
+		"dosage" : "1g",
+		"frequency" : "一日三次"
+	},
+	{
+		"pscriptTemplateDetailID" : 13,
+		"pscriptTemplateID" : 8,
+		"drugID" : 33,
+		"useage" : "口服",
+		"dosage" : "2g",
+		"frequency" : "一日三次"
+	},
+	{
+		"pscriptTemplateDetailID" : 14,
+		"pscriptTemplateID" : 8,
+		"drugID" : 47,
+		"useage" : "口服",
+		"dosage" : "适量",
+		"frequency" : "多次"
+	},
+	{
+		"pscriptTemplateDetailID" : 15,
+		"pscriptTemplateID" : 9,
+		"drugID" : 44,
+		"useage" : "11",
+		"dosage" : "11",
+		"frequency" : "11"
+	},
+	{
+		"pscriptTemplateDetailID" : 18,
+		"pscriptTemplateID" : 9,
+		"drugID" : 68,
+		"useage" : "22",
+		"dosage" : "22",
+		"frequency" : "22"
+	}
+]

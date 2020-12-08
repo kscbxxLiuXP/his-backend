@@ -1,0 +1,72 @@
+[
+	{
+		"scheduleRuleID" : 1,
+		"scheduleRuleName" : "q1",
+		"deptID" : 1,
+		"userID" : 1,
+		"rule" : "11111111100000"
+	},
+	{
+		"scheduleRuleID" : 2,
+		"scheduleRuleName" : "q1",
+		"deptID" : 2,
+		"userID" : 6,
+		"rule" : "11111111110000"
+	},
+	{
+		"scheduleRuleID" : 3,
+		"scheduleRuleName" : "q1",
+		"deptID" : 1,
+		"userID" : 2,
+		"rule" : "11111100000000"
+	},
+	{
+		"scheduleRuleID" : 4,
+		"scheduleRuleName" : "q1",
+		"deptID" : 2,
+		"userID" : 5,
+		"rule" : "11111111100000"
+	},
+	{
+		"scheduleRuleID" : 5,
+		"scheduleRuleName" : "q1",
+		"deptID" : 2,
+		"userID" : 4,
+		"rule" : "11111100000000"
+	},
+	{
+		"scheduleRuleID" : 6,
+		"scheduleRuleName" : "q1",
+		"deptID" : 1,
+		"userID" : 3,
+		"rule" : "11111111100000"
+	},
+	{
+		"scheduleRuleID" : 7,
+		"scheduleRuleName" : "周日值班",
+		"deptID" : 2,
+		"userID" : 6,
+		"rule" : "00000000001100"
+	},
+	{
+		"scheduleRuleID" : 8,
+		"scheduleRuleName" : "周日值班",
+		"deptID" : 2,
+		"userID" : 5,
+		"rule" : "00000000000011"
+	},
+	{
+		"scheduleRuleID" : 9,
+		"scheduleRuleName" : "m1",
+		"deptID" : 2,
+		"userID" : 6,
+		"rule" : "00000011110000"
+	},
+	{
+		"scheduleRuleID" : 10,
+		"scheduleRuleName" : "b1",
+		"deptID" : 1,
+		"userID" : 1,
+		"rule" : "11111111100000"
+	}
+]

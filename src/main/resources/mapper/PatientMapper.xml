@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.liuxp.his.Dao.PatientDao">
+    <!--    public Patient getOne(int id);-->
+
+    <!--    public void updateOne(int patientID,Patient patient);-->
+
+    <!--    public void insertOne(Patient patient);-->
+    <select id="getOne" resultType="com.liuxp.his.PO.Patient">
+        select * from patient where patientID = #{id}
+    </select>
+
+    <update id="updateOne">
+        update patient
+        set
+        name = #{name},
+        sex = #{sex},
+        identifyID = #{identifyID},
+        birth = #{birth},
+        age= #{age},
+        ageType = #{ageType},
+        address = #{address},
+        createTime= #{createTime}
+        where patientID=#{patientID}
+    </update>
+
+    <insert id="insertOne">
+        insert into
+        patient
+        (patientID,name,sex,identifyID,birth,age,ageType,address,createTime)
+        values
+        (#{patientID},#{name},#{sex}, #{identifyID},#{birth},#{age},#{ageType}, #{address}, #{createTime})
+    </insert>
+</mapper>
